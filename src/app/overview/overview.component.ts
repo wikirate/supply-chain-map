@@ -1,4 +1,5 @@
 import {Component, OnInit} from '@angular/core';
+import {HttpClient} from "@angular/common/http";
 
 @Component({
   selector: 'app-overview',
@@ -8,9 +9,9 @@ import {Component, OnInit} from '@angular/core';
 export class OverviewComponent implements OnInit {
   companies: LocationMarker[] = [
     {
-      label: 'Company 1',
+      company: 'Company 1',
       lat: 52.5243700,
-      lng: 13.4105300,
+      lon: 13.4105300,
       suppliers: [
         {
           label: 'Supplier 1',
@@ -29,28 +30,33 @@ export class OverviewComponent implements OnInit {
         }]
     },
     {
-      label: 'Company 2',
+      company: 'Company 2',
       lat: -23.541062,
-      lng: -46.616177
+      lon: -46.616177,
+      suppliers: []
     },
     {
-      label: 'Company 3',
+      company: 'Company 3',
       lat: 39.9075000,
-      lng: 116.3972300
+      lon: 116.3972300,
+      suppliers: []
     }];
 
 
-
-  constructor() {
+  constructor(private http: HttpClient) {
   }
 
   ngOnInit() {
+    this.http.get('assets/data/addr.json').subscribe((addresses: any) => {
+      this.companies = addresses.addresses;
+    })
   }
 
 }
 
 interface LocationMarker {
   lat: number;
-  lng: number;
-  label: string;
+  lon: number;
+  company: string;
+  suppliers: any[];
 }

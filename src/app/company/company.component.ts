@@ -2,6 +2,7 @@ import {Component, OnInit} from '@angular/core';
 import {SupplierDataService} from '../services/supplier-data.service';
 import {Supplier} from '../types/supplier';
 import {Company} from '../types/company';
+import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-company',
@@ -11,6 +12,8 @@ import {Company} from '../types/company';
 
 
 export class CompanyComponent implements OnInit {
+  faExternalLinkAlt = faExternalLinkAlt;
+
   VIEWS = {
     ALL_COMPANIES: 'ALL_COMPANIES',
     COMPANY_OVERVIEW: 'COMPANY_OVERVIEW'
