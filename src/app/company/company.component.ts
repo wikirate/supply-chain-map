@@ -1,5 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {SupplierDataService} from '../services/supplier-data.service';
+import {AddressService} from '../services/address.service';
 import {Supplier} from '../types/supplier';
 import {Company} from '../types/company';
 import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
@@ -26,7 +27,7 @@ export class CompanyComponent implements OnInit {
   companyData: Company[] = null;
 
 
-  constructor(private supplierDataService: SupplierDataService) {
+  constructor(private supplierDataService: SupplierDataService, private addressService: AddressService) {
   }
 
   ngOnInit() {
@@ -38,11 +39,11 @@ export class CompanyComponent implements OnInit {
           this.supplierDataService.getSupplierList(company.id).subscribe((suppliers: Supplier[]) => {
             company.suppliers = suppliers;
             company.suppliers.forEach((supplier: Supplier) => {
-              console.log('supplier',supplier)
-              this.supplierDataService.getAddress(supplier['object_company']).subscribe((supplierAddress: any) => {
-                supplier.address = supplierAddress;
-                console.log('address',supplier);
-              });
+              console.log('xxxx');
+              let myAddress = this.addressService.getAddress(supplier.name);
+                 supplier.address = myAddress.address;
+                supplier.lat = myAddress.lat;
+                supplier.long = myAddress.long;
             });
           });
         });
