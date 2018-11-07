@@ -5,6 +5,11 @@
   </ul>
   <ul *ngIf="currentView === VIEWS.COMPANY_OVERVIEW && currentCompanyData" class="list-unstyled pl-2">
     <h3 class="text-center">{{currentCompanyData.company}}</h3>
-    <li></li>
+      <li>ID: {{currentCompanyData.id}}</li>
+      <li>Year: {{currentCompanyData.year}}</li>
+      <li>Value: {{currentCompanyData.value}}</li>
+      <li>Suppliers: COMING SOON</li>
+      <li>Investors: COMING SOON</li>
+      <button (click)="goToView(VIEWS.ALL_COMPANIES)" class="btn col-12 mt-2"><- back to overview</button>
   </ul>
 </div>

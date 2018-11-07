@@ -291,6 +291,10 @@ export class CompanyComponent implements OnInit {
 
   showCompanyData(companyData) {
     this.currentCompanyData = companyData;
-    this.currentView = this.VIEWS.COMPANY_OVERVIEW;
+    this.goToView(this.VIEWS.COMPANY_OVERVIEW);
+  }
+
+  goToView(view) {
+    this.currentView = view;
   }
 }
