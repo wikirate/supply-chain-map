@@ -11,13 +11,12 @@ export class AddressService {
     constructor(private http: HttpClient) {
     }
 
-    getAddress(companyName) : Address{
-        return this.http.get("/assets/data/addr.json").subscribe(
+    getAddress(companyName) {
+        return this.http.get("/assets/data/addr.json").pipe(map(
             (json: any) => {
-                console.log(json)
-                return json.addresses.filter(address => address.company === companyName)[0]
+                return json.addresses.filter(address => address.company === companyName)[0] as Address
             }
-        ) as Address
+        ));
     }
 
 }

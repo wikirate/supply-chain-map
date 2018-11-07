@@ -23,10 +23,11 @@ export class SupplierDataService {
       map((data: any) =>
         (data.items as any[])
           .map((item: any) => {
+            console.log(item)
             return {
               id: item.id,
-              name: item.name,
-              company: item.object_company,
+              name: item.company,
+              company: item.company,
               value: item.value,
               year: item.year
             } as Company;
@@ -38,7 +39,7 @@ export class SupplierDataService {
     return this.getWikirateJson(`~${companyId}.json`)
       .pipe(
         map(data => data.items as any[]),
-        reduce((acc: Array, suppliers: any[]) => {
+        reduce((acc: Array<Supplier>, suppliers: any[]) => {
           suppliers.forEach((item: any) =>
           acc.push({
             id: item.id,
