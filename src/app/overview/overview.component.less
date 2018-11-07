@@ -10,9 +10,19 @@ agm-map {
 #company-info-widget {
   position: absolute;
   left: 0;
-  height: auto;
-  width: 250px;
+  max-height: @map-height;
+  overflow-y: scroll;
+  width: 275px;
   background: fade(grey, 90%);
   z-index: 1;
+
+  #company-overview {
+    li {
+      &:hover {
+        cursor: pointer;
+        text-decoration: underline;
+      }
+    }
+  }
 }
 

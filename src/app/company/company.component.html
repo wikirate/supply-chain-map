@@ -1,13 +1,21 @@
-<div id="company-info-widget">
-  <ul *ngIf="companyData && currentView === VIEWS.ALL_COMPANIES" class="list-unstyled pl-2" >
+<div id="company-info-widget" class="p-1">
+  <ul *ngIf="companyData && currentView === VIEWS.ALL_COMPANIES"
+      id="company-overview"
+      class="list-unstyled pl-2"
+  >
     <h3 class="text-center">List of Companies</h3>
-    <li (click)="showCompanyData(company)" *ngFor="let company of companyData">{{company.company}}</li>
+    <li (click)="showCompanyData(company)" *ngFor="let company of companyData">
+        {{company.company}}  <fa-icon [icon]="faExternalLinkAlt"></fa-icon>
+
+    </li>
   </ul>
-  <ul *ngIf="companyData && currentView === VIEWS.COMPANY_OVERVIEW && currentCompanyData" class="list-unstyled pl-2">
+  <ul *ngIf="companyData && currentView === VIEWS.COMPANY_OVERVIEW && currentCompanyData"
+      id="company-data"
+      class="list-unstyled pl-2">
     <h3 class="text-center">{{currentCompanyData.company}}</h3>
       <li>ID: {{currentCompanyData.id}}</li>
       <li>Year: {{currentCompanyData.year}}</li>
-      <li>Value: {{currentCompanyData.value}}</li>
+g      <li>Value: {{currentCompanyData.value}}</li>
       <li>Suppliers: COMING SOON</li>
       <li>Investors: COMING SOON</li>
       <button (click)="goToView(VIEWS.ALL_COMPANIES)" class="btn col-12 mt-2"><- back to overview</button>
