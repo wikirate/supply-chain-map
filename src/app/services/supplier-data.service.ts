@@ -3,6 +3,7 @@ import {HttpClient} from '@angular/common/http';
 import {Company} from '../types/company';
 import {Observable} from 'rxjs';
 import {map} from 'rxjs/operators';
+import {Supplier} from '../types/supplier';
 
 @Injectable()
 export class SupplierDataService {
