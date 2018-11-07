@@ -2,16 +2,18 @@
   <div class="row mt-4 pt-4">
     <div class="col-12" id="map-company-container">
       <app-company></app-company>
-      <agm-map [fitBounds]="true">
+      <agm-map [fitBounds]="true"
+               [fullscreenControl]="true">
 
         <agm-marker
           *ngFor="let m of companies"
           [latitude]="m.lat"
           [longitude]="m.lon"
-          iconUrl="/assets/icons/company.png"
+          iconUrl="/assets/icons/company.svg"
           [agmFitBounds]="true">
           <agm-info-window>
-            <strong>{{m.company}}</strong>
+            <strong>{{m.company}}</strong><br/>
+            <em>{{m.address}}</em>
           </agm-info-window>
 
           <agm-marker
