@@ -38,7 +38,8 @@ export class SupplierDataService {
     return this.getWikirateJson(`~${companyId}.json`)
       .pipe(
         map(data => data.items as any[]),
-        reduce((acc: Array, item: any) => {
+        reduce((acc: Array, suppliers: any[]) => {
+          suppliers.forEach((item: any) =>
           acc.push({
             id: item.id,
             name: item.name,
@@ -46,14 +47,14 @@ export class SupplierDataService {
             subject_company: item.subject_company,
             value: item.value,
             year: item.year
-          } as Supplier);
+          } as Supplier));
           return acc;
         }, [])
       );
   }
 
   getAddress(supplierName: string): Observable<string> {
-    return this.getWikirateJson(`Clean_Clothes_Campaign+Address+${supplierName}.json`)
+    return this.getWikirateJson(`Clean_Clothes_Campaign+Address+${supplierName}`)
       .pipe(map((data: any) => data.items[0].value));
   }
 

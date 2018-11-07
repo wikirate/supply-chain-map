@@ -25,7 +25,6 @@ export class CompanyComponent implements OnInit {
 
   companyData: Company[] = null;
 
-  supplierList = null;
 
   constructor(private supplierDataService: SupplierDataService) {
   }
@@ -35,13 +34,14 @@ export class CompanyComponent implements OnInit {
       next: x => {
         this.companyData = x;
         this.companyData.forEach((company: Company) => {
-
+          console.log('company', company)
           this.supplierDataService.getSupplierList(company.id).subscribe((suppliers: Supplier[]) => {
             company.suppliers = suppliers;
             company.suppliers.forEach((supplier: Supplier) => {
+              console.log('supplier',supplier)
               this.supplierDataService.getAddress(supplier['object_company']).subscribe((supplierAddress: any) => {
                 supplier.address = supplierAddress;
-                console.log(supplier);
+                console.log('address',supplier);
               });
             });
           });
