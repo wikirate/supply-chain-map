@@ -31,14 +31,15 @@ export class OverviewComponent implements OnInit {
     {
       label: 'Company 2',
       lat: -23.541062,
-      lng: -46.616177
+      lng: -46.616177,
+      suppliers: []
     },
     {
       label: 'Company 3',
       lat: 39.9075000,
-      lng: 116.3972300
+      lng: 116.3972300,
+      suppliers: []
     }];
-
 
 
   constructor() {
@@ -53,4 +54,5 @@ interface LocationMarker {
   lat: number;
   lng: number;
   label: string;
+  suppliers: any[];
 }
