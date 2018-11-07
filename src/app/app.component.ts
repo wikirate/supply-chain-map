@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {SupplierDataService} from './services/supplier-data.service';
+import {Company} from './types/company';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +9,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-map-app';
+
+  constructor(private supplierDataService: SupplierDataService) {
+    supplierDataService.getCompanyList().subscribe((data: Company[]) => console.log(data));
+  }
 }
