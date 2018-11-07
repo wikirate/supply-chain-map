@@ -7,11 +7,11 @@
         <agm-marker
           *ngFor="let m of companies"
           [latitude]="m.lat"
-          [longitude]="m.lng"
+          [longitude]="m.lon"
           iconUrl="/assets/icons/company.png"
           [agmFitBounds]="true">
           <agm-info-window>
-            <strong>{{m.label}}</strong>
+            <strong>{{m.company}}</strong>
           </agm-info-window>
 
           <agm-marker
@@ -25,7 +25,7 @@
             </agm-info-window>
             <agm-polyline>
               <agm-polyline-point [latitude]="s.lat" [longitude]="s.lng"></agm-polyline-point>
-              <agm-polyline-point [latitude]="m.lat" [longitude]="m.lng"></agm-polyline-point>
+              <agm-polyline-point [latitude]="m.lat" [longitude]="m.lon"></agm-polyline-point>
             </agm-polyline>
           </agm-marker>
         </agm-marker>
