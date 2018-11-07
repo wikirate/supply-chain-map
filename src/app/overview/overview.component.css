@@ -1,0 +1,14 @@
+#map-company-container {
+  position: relative;
+}
+agm-map {
+  height: 500px;
+}
+#company-info-widget {
+  position: absolute;
+  left: 0;
+  height: auto;
+  width: 250px;
+  background: rgba(128, 128, 128, 0.9);
+  z-index: 1;
+}

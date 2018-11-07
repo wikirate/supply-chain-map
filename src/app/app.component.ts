@@ -5,7 +5,7 @@ import {Company} from './types/company';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.less']
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
   title = 'my-map-app';
