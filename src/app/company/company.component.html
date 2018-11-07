@@ -16,11 +16,10 @@
       <li>ID: {{currentCompanyData.id}}</li>
       <li>Year: {{currentCompanyData.year}}</li>
       <li>Value: {{currentCompanyData.value}}</li>
-      <li *ngIf="companyData.suppliers.length >= 1">Suppliers:
-          <span *ngFor="let supplier of companyData.suppliers">
-              {{supplier.object_company}}
-          </span>
-      </li>
+      <ul class="list-unstyled" *ngIf="companyData.suppliers.length >= 1">
+          Suppliers:
+          <li *ngFor="let supplier of companyData.suppliers">- {{supplier.object_company}}</li>
+      </ul>
       <li>Investors: COMING SOON</li>
       <button (click)="goToView(VIEWS.ALL_COMPANIES)" class="btn col-12 mt-2"><- back to overview</button>
   </ul>
