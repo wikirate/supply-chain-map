@@ -2,6 +2,7 @@ import {BrowserModule} from '@angular/platform-browser';
 import {NgModule} from '@angular/core';
 import {AppRoutingModule} from './app-routing.module';
 import {SupplierDataService} from './services/supplier-data.service';
+import {AddressService} from './services/address.service';
 import {HttpClientModule} from '@angular/common/http';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
@@ -30,7 +31,7 @@ import { AboutComponent } from './about/about.component';
     AgmCoreModule.forRoot({apiKey: 'AIzaSyDWk0GSzb8laOLwKxvdzeOWDcbAs-ywjSg'}),
     FontAwesomeModule
   ],
-  providers: [SupplierDataService],
+  providers: [SupplierDataService, AddressService],
   bootstrap: [AppComponent]
 })
 export class AppModule {
