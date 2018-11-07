@@ -1,9 +1,9 @@
 <div id="company-info-widget">
-  <ul *ngIf="currentView === VIEWS.ALL_COMPANIES" class="list-unstyled pl-2" >
+  <ul *ngIf="companyData && currentView === VIEWS.ALL_COMPANIES" class="list-unstyled pl-2" >
     <h3 class="text-center">List of Companies</h3>
-    <li (click)="showCompanyData(company)" *ngFor="let company of data.items">{{company.company}}</li>
+    <li (click)="showCompanyData(company)" *ngFor="let company of companyData">{{company.company}}</li>
   </ul>
-  <ul *ngIf="currentView === VIEWS.COMPANY_OVERVIEW && currentCompanyData" class="list-unstyled pl-2">
+  <ul *ngIf="companyData && currentView === VIEWS.COMPANY_OVERVIEW && currentCompanyData" class="list-unstyled pl-2">
     <h3 class="text-center">{{currentCompanyData.company}}</h3>
       <li>ID: {{currentCompanyData.id}}</li>
       <li>Year: {{currentCompanyData.year}}</li>
