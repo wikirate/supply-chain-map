@@ -1,9 +1,9 @@
 import {Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {Company} from '../types/company';
+import {Observable} from 'rxjs';
+import {map, reduce} from 'rxjs/operators';
 import {Supplier} from '../types/supplier';
-import {Observable, of} from 'rxjs';
-import {map} from 'rxjs/operators';
 
 @Injectable()
 export class SupplierDataService {
@@ -13,44 +13,52 @@ export class SupplierDataService {
   constructor(private http: HttpClient) {
   }
 
-  getSupplierList(id): Observable<Supplier[]> {
-      return of([{
-          object_company : "Ningbo Yinzhou Yangyang Finery Co. Ltd.",
-          address : "61 Fengqi Road, Yinzhou, Ningbo, Zhejiang, China",
-          lat : "29.8245724",
-          lon : "121.5806845"
-      } as Supplier])
-      // return this.http.get(`${this.BASE_URL}/Commons+Supplied_By+Record.json`)
-      //     .pipe(
-      //         map((data: any) =>
-      //             (data.items as any[])
-      //                 .map((item: any) => {
-      //                     return {
-      //                         id: item.id,
-      //                         name: item.name,
-      //                         company: item.company,
-      //                         value: item.value,
-      //                         year: item.year
-      //                     } as Supplier
-      //                 })
-      //         ));
+  getCompanyList(): Observable<Company[]> {
+    return this.getCompaniesFromMetric('Commons+Supplied_By');
   }
 
-  getCompanyList(): Observable<Company[]> {
-    return this.http.get(`${this.BASE_URL}/Commons+Supplied_By+Record.json`)
+
+  private getCompaniesFromMetric(endpoint: string): Observable<Company[]> {
+    return this.getWikirateJson(`${endpoint}+Record.json`).pipe(
+      map((data: any) =>
+        (data.items as any[])
+          .map((item: any) => {
+            return {
+              id: item.id,
+              name: item.name,
+              company: item.object_company,
+              value: item.value,
+              year: item.year
+            } as Company;
+          })
+      ));
+  }
+
+  getSupplierList(companyId: number): Observable<Supplier[]> {
+    return this.getWikirateJson(`~${companyId}.json`)
       .pipe(
-        map((data: any) =>
-          (data.items as any[])
-            .map((item: any) => {
-              return {
-                id: item.id,
-                name: item.name,
-                company: item.company,
-                value: item.value,
-                year: item.year
-              } as Company
-            })
-        ));
+        map(data => data.items as any[]),
+        reduce((acc: Array, item: any) => {
+          acc.push({
+            id: item.id,
+            name: item.name,
+            object_company: item.object_company,
+            subject_company: item.subject_company,
+            value: item.value,
+            year: item.year
+          } as Supplier);
+          return acc;
+        }, [])
+      );
+  }
+
+  getAddress(supplierName: string): Observable<string> {
+    return this.getWikirateJson(`Clean_Clothes_Campaign+Address+${supplierName}.json`)
+      .pipe(map((data: any) => data.items[0].value));
+  }
+
+  getWikirateJson(resource: string): Observable<any> {
+    return this.http.get(`${this.BASE_URL}/${resource}`);
   }
 
 }

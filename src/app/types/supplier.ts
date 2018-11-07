@@ -3,7 +3,7 @@ export class Supplier {
   name: string;
   subject_company: string;
   object_company: string;
-  value: number;
+  value: string;
   year: number;
   address: string;
   lat: string;
