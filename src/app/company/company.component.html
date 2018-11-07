@@ -16,7 +16,7 @@
       <li>ID: {{currentCompanyData.id}}</li>
       <li>Year: {{currentCompanyData.year}}</li>
       <li>Value: {{currentCompanyData.value}}</li>
-      <ul class="list-unstyled" *ngIf="companyData.suppliers.length >= 1">
+      <ul class="list-unstyled" *ngIf="companyData.suppliers && companyData.suppliers.length >= 1">
           Suppliers:
           <li *ngFor="let supplier of companyData.suppliers">- {{supplier.object_company}}</li>
       </ul>

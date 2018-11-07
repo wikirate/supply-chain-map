@@ -38,14 +38,15 @@ export class CompanyComponent implements OnInit {
           console.log('company', company)
           this.supplierDataService.getSupplierList(company.id).subscribe((suppliers: Supplier[]) => {
             company.suppliers = suppliers;
-            company.suppliers.slice(0,5).forEach((supplier: Supplier) => {
+            company.suppliers.splice(0,4).forEach((supplier: Supplier) => {
               // console.log('xxxx');
               let myAddress = this.addressService.getAddress(supplier.name);
               myAddress.subscribe(
                   (x) => {
+                      console.log('supplier:', x)
                      supplier.address = x.address;
-                    supplier.lat = x.lat;
-                    supplier.long = x.long;
+                      supplier.lat = x.lat;
+                      supplier.long = x.long;
 
                   }
               )
