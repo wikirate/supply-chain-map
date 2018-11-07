@@ -28,8 +28,14 @@ export class CompanyComponent implements OnInit {
 
   ngOnInit() {
     this.supplierDataService.getCompanyList().subscribe({
-      next: x => {
-          this.companyData = x;
+      next: company => {
+          this.supplierDataService.getSupplierList(company.id).subscribe({
+            next: suppliers => {
+              console.log(suppliers)
+              this.companyData = company;
+              this.companyData.suppliers = suppliers
+            }
+          })
       },
       error: err => console.error('Observer got an error: ' + err),
       complete: () => console.log('Observer got a complete notification'),
@@ -38,6 +44,7 @@ export class CompanyComponent implements OnInit {
 
   showCompanyData(companyData) {
     this.currentCompanyData = companyData;
+
     this.goToView(this.VIEWS.COMPANY_OVERVIEW);
   }
 

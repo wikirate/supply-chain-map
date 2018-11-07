@@ -15,8 +15,12 @@
     <h3 class="text-center">{{currentCompanyData.company}}</h3>
       <li>ID: {{currentCompanyData.id}}</li>
       <li>Year: {{currentCompanyData.year}}</li>
-g      <li>Value: {{currentCompanyData.value}}</li>
-      <li>Suppliers: COMING SOON</li>
+      <li>Value: {{currentCompanyData.value}}</li>
+      <li *ngIf="companyData.suppliers.length >= 1">Suppliers:
+          <span *ngFor="let supplier of companyData.suppliers">
+              {{supplier.object_company}}
+          </span>
+      </li>
       <li>Investors: COMING SOON</li>
       <button (click)="goToView(VIEWS.ALL_COMPANIES)" class="btn col-12 mt-2"><- back to overview</button>
   </ul>
