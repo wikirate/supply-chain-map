@@ -1,0 +1,432 @@
+company_name,supplier_address,supplier_name,supplier_tier,supplier_latlon
+"H & M, Hennes & Mauritz AB","Plot no 22, Near Industrial Area 283203, Firozabad",Uma Glass Works,Tier 1 Supplier,"[27.1591961, 78.3957331]"
+"H & M, Hennes & Mauritz AB","G161-164 , RIICO Industrial Area, Bagru Extension , Bagru, 303007, Jaipur",Dileep Industries Pvt Limited (wood),Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","# 40/2, Dasanapura, Opp. Surat Goods Carrie, Madanayakanahalli, Tumkur Road 562123, BANGALORE",Texport Syndicate (Texport Syndicate (I) Ltd. - 4),Tier 1 Supplier,"[13.0609737, 77.46183289999999]"
+"H & M, Hennes & Mauritz AB","Plot 183 A&B, sectore 25, part II 132103, Panipat",Riviera Unit-2,Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","142/1, Chennai Krishnagiri, National Highway (Trunk Road), Perumugai, 632009, Vellore",KH Exports India Pvt. Ltd. - Gloves,Tier 1 Supplier,"[13.0826802, 80.2707184]"
+"H & M, Hennes & Mauritz AB","Plot A-463, TTC Indl Area, MIDC Mahape, 400710, Navi Mumbai",RAM FASHION EXPORTS P LTD,Tier 1 Supplier,"[19.1138775, 73.0126398]"
+"H & M, Hennes & Mauritz AB","Survey No. 8/2, V.P. Katha No. 851, Benganur, Village Kasaba Hobli, 563114, Bangarpet",INDIAN DESIGNS (Indian Designs Exports Pvt. Ltd. Unit - IV),Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","1084, Dr.APJ Abdul Kalam Road, Govindapura A.C. Post 560045, Bangalore",INDIAN DESIGNS (UNIT-5),Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","No.1 (115 / 3), West of Chord Road, Rajajinagar 560044, Bangalore",KABADI SHANKARSA (Rajajinagar Unit),Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","Door no 253, Lakshmi Estate, Puddukottai Road 613005, TANJORE",Shakthi Knitting - flamingo,Tier 1 Supplier,"[10.7485132, 79.11577779999999]"
+"H & M, Hennes & Mauritz AB","PLOT#11-12, SECTOR-25, Part I, HUDA 132103, Panipat",Raj Overseas unit-1,Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","Plot no.-02, Kiadb Industrial Area, Dodaballapur 561203, Bangalore",GOKALDAS EXPORTS (Indigo Blues-Washing Unit),Tier 1 Supplier,"[12.9715987, 77.5945627]"
+"H & M, Hennes & Mauritz AB","Katha No.- S 620 - 628, T.B. Road 571438, Srirangapatna",GOKALDAS EXPORTS (Unit Euro Clothing -II),Tier 1 Supplier,"[12.4215561, 76.6931273]"
+"H & M, Hennes & Mauritz AB","8/1223, MLR BUILDING, P.N. ROAD, MUMOORTHY NAGAR, 641602, TIRUPUR",SHAKTHI KNITTING - BLOOMINGDALE,Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","43 & 44, Sarvodaya Nagar, Opposite Gogappa, Layout Church Road, A.C 560045, Bangalore",INDIAN DESIGNS (NJK Enterprises Finishing Unit),Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","PLOT NO.A-7/3, ROAD NO.12, MINI APPAREL PARK, NACHARAM, 500076, Hyderabad","Shahi (Unit-A-7/3, Hyderabad)",Tier 1 Supplier,"[17.4141075, 78.4300593]"
+"H & M, Hennes & Mauritz AB","226/227 , 8th Main, 3rd Phase, Kiadb , Peenya Industrial Area, 560056, Bangalore",Shahi Banglore - Unit 28,Tier 1 Supplier,"[12.9915231, 77.53867509999999]"
+"H & M, Hennes & Mauritz AB","Plot # V / 27, 2nd Stage, 2nd Phase, 7th Main Road Peenya, Industrial Area Peenya 560058, Bangalore",SCOTTS GARMENTS (UNIT 6),Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","SF2, 1st PHASE, PEENYA INDUSTRIAL AREA, JALAHALLI WEST, S.M.ROAD, 560015, BANGALORE",SCOTTS GARMENTS (Unit -10-Peenya),Tier 1 Supplier,
+"H & M, Hennes & Mauritz AB","plot no 44-51 Sy no 172 179&181Gejjalagere industrial areamaddur, India",Shahi Exports Pvt Ltd Unit - 26,Tier 1 Supplier,"[20.593684, 78.96288]"
+Asos,"No. 100, Yanyang Road, Chengyang District, Qingdao, Shandong, 266109, China",Qingdao Fashion Co. Ltd,Tier 1 Supplier,
+Asos,"Minfeng Industrial Development Zone, Huanggu Town, Pinghu, Zhejiang, 314203, China",Pinghu Shengfeng Garments Co. Ltd,Tier 1 Supplier,
+Asos,"Yeni Mahalle, Bagcilar Asfalti Caddesi, No:56 / 3, Bagcilar, Istanbul, 34210, Turkey",Zirve Utu Paket,Tier 1 Supplier,
+Asos,"Yenibosna Merkez Mah., Yalcin Kores Cad. Arifaga Sok. No: 23, BahÎÂ§elievler, Istanbul, 34197, Turkey",YNS Tekstil Ve Konf. San. Dis Tic. Ltd. Sti,Tier 1 Supplier,
+Asos,"No. 24 Shanxing Road, Shengzhou, Zhejiang, 312400, China",Zhejiang Shengzhou Hendga Necktie and Fashion Co. Ltd,Tier 1 Supplier,
+Asos,"612 YiCun, Huang Cao Lang Village, Dalang, Dongguan, Guangdong, 523770, China",Ya Sheng Knitting,Tier 1 Supplier,
+Asos,"Fangxiang Industrial Park Fangxiang Town, Hanjiang District, Yangzhou, Jiangsu, 225117, China",Yangzhou Dongsheng Handicraft Product Co.,Tier 1 Supplier,
+Asos,"120/22-26 Moo 3, Chiangmai-Sankampang Road, Sankang, Sankampang, Chiangmai, 50130, Thailand",Westfield Co. Ltd,Tier 1 Supplier,
+Asos,"Group 3, Shendun Village, Sanhua Town, Xishui, Hubei, 438200, China",Xishui Sunshine Garment Ltd,Tier 1 Supplier,
+Asos,"No. 121 Grenaderska Street, Pleven, Pleven , 5800, Bulgaria",Victors-11,Tier 1 Supplier,
+Asos,"7 Lianxin Road, Shangjiao, Changan, Dongguan, Guangdong, 523878, China",Wai Fung Garment Factory,Tier 1 Supplier,"[22.814138, 113.8024]"
+Asos,"No.942, Wenqu East Road, Guoxi Town, Ouhai District, Wenzhou, Zhejiang, 325016, China",Wenzhou 101 Optical Co. Ltd,Tier 1 Supplier,"[27.993146, 120.590512]"
+Asos,"38 KM Milestone, Behrampur Road, Delhi Jaipur Highway, Gurgaon, Haryana, 122001 / 0091, India",V&S International Pvt Ltd,Tier 1 Supplier,
+Asos,"87/2, KALIAMMAN KOVIL STREET, 15 Velampalayam, Tirupur, Tamil Nadu, 641652, India",Value Fashions,Tier 1 Supplier,"[11.1078933, 77.3485213]"
+Asos,"Coban Cesme Mah, GÎÎnesli Sokak No: 1/3, BahÎÂ§elievler, Istanbul, 34196, Turkey",Umer Tekstil San Ve Dis. Tic. Ltd. Sti,Tier 1 Supplier,
+Asos,"No.253 Jingcheng Road, Fangbu Industrial Area, Shuanghe Village, Tonglu County, Hangzhou, Zhejiang, 311500, China",Tonglu Xinxing Knitting Factory,Tier 1 Supplier,"[29.847911, 119.621407]"
+Asos,"Unit B, Cypress House, 2 Coburg Road, London, N22 6UJ, United Kingdom",The Village Factory,Tier 1 Supplier,"[51.59442629999999, -0.1134559]"
+Asos,"Sunjia Village, Hengchun Town, Tonglu County, Hangzhou, Zhejiang, 311512, China",Tonglu Fuwei Knitting Factory,Tier 1 Supplier,
+Asos,"8 Tagore Street, L'escalier Savanne, Mauritius",Tex Knits,Tier 1 Supplier,
+Asos,"Unit 14, 167 Crusader Industrial Estate, Hermitage Road, London, N4 1LZ, United Kingdom",The Factory,Tier 1 Supplier,
+Varner Retail,"Emek Mah. SÄ±vat Caddesi No:15 Sancaktepe, Istanbul, Marmara, Turkey",Unlu Tekstil San. Ve Tic. A.S.,Tier 1 Supplier,
+Varner Retail,"Mahmutbey Mah. Altug Sokak No:2 34218 BagcÄ±lar, Istanbul, Marmara, Turkey",SLN Tekstil Ve Moda San Tic A.S,Tier 1 Supplier,
+Varner Retail,"AtatÃ¼rk BulvarÄ± No.46 Mercansoy Plaza K.5 Sultangazi, Istanbul, Marmara, Turkey",Selga Tekstil San. Tic. Ltd. Åti.,Tier 1 Supplier,
+Varner Retail,"Organize San. BÃ¶lg. 4. Cadde 1880 Parsel Ãaycuma, Zonguldak, Blacksea, Turkey",Nersoy Tekstil San. Tic. Ltd. Åti.,Tier 1 Supplier,
+Varner Retail,"Cihangir Mah. Ord.Prof.Dr.Ali Fuat Basgil Cad. No:20/1 AvcÄ±lar, Istanbul, Marmara, Turkey",Memteks Tekstil San. Ve Tic. A.S.,Tier 1 Supplier,
+Varner Retail,"Dudullu Org. San. BÃ¶lg. 1.Cd. Ä°smet Tarman Ä°Å Merk. No.1/16 Y.Dudullu Ãmraniye, Istanbul, Marmara, Turkey",Lin Tekstil San. Tic. A.Å.,Tier 1 Supplier,
+Varner Retail,"Cebeci Mah. Eski Edirne AsfaltÄ± No: 748 Kat: 4 Sultangazi, Istanbul, Marmara, Turkey",Kaya Tekstil - Murat Kaya,Tier 1 Supplier,
+Varner Retail,"Ataturk Mah. Habib Sok. No:5 Luleburgaz, KÄ±rklareli, Marmara, Turkey",Kaner Trakya Tekstil San. Ve Tic. Ltd. Sti.,Tier 1 Supplier,
+Varner Retail,"Evren Mahallesi 1506. Sokak No:7 Ä°Åyeri No:31 BaÄcÄ±lar 34212, Istanbul, Marmara, Turkey",Jeanci Konfeksiyon Tekstil Sanayi ve Ticaret A.S.,Tier 1 Supplier,
+Varner Retail,"Guzelhisar Mahallesi Cankaya Bulvari No:84/A Akyurt, Ankara, Central Anatolia, Turkey",Gulecler Corap Ve Tekstil Urunleri San.Tic.Ltd.Sti.,Tier 1 Supplier,
+Varner Retail,"Org. San. BÃ¶lg. 21.Cd. No.6, Eskisehir, Central Anatolia, Turkey",Eskisehir Corap ve Tekstil San Tic. Ltd. Åti.,Tier 1 Supplier,
+Varner Retail,"Beylikduzu OSB Mh. Bakir ve Pirinc Sanayicileri Sitesi Orkide Cd. No.9/1-2 Beylikduzu, Istanbul, Marmara, Turkey",Bizler Tekstil San. Ve Dis Tic. Ltd. Sti.,Tier 1 Supplier,
+Varner Retail,"UÄur Mumcu Mah. 2347 Sokak No:6/8 Enis Ä°Å Merkezi Sultangazi, Istanbul, Marmara, Turkey",Baykaan Tekstil San. Ve Tic.Ltd.Sti.,Tier 1 Supplier,
+Varner Retail,"Hurriyet Cad. Eski Tekel TÃ¼tÃ¼n DepolarÄ± No:5 Merkez, Mus, East Anatolia, Turkey",Barco Tekstil San. Ve Tic. A.S. - Mus Branch,Tier 1 Supplier,
+Varner Retail,"Ä°kitelli Org. San. BÃ¶lg. Turgut Ãzal Cd. No.109 Ä°kitelli, Istanbul, Marmara, Turkey",Akademi Tekstil San. Tic. Ltd. Åti.,Tier 1 Supplier,
+Varner Retail,"Saadetdere Mah. DoÄan AraslÄ± Cad. 107. Sokak No:2 Kat:1/A Esenyurt, Istanbul, Marmara, Turkey",AFR Tekstil San. ve Dis Tic. Ltd. Sti.,Tier 1 Supplier,
+Varner Retail,"KÃ¤rrastrandvÃ¤gen 112B, Uddevalla, Uddevalla, Sweden",Nordic Leather Group AB,Tier 1 Supplier,
+Varner Retail,"Tekstilna 57 Street Leskovac 16000, Leskovac, Leskovac, Serbia",Jeanci Serbia d.o.o.,Tier 1 Supplier,
+Varner Retail,"Privrendo Drustvo Novobecejski Put B.B 23273 Novo, Novi Sad, Vojvodina, Serbia",Italtex Intimo D.O.O.,Tier 1 Supplier,
+Varner Retail,"Lahore Sargodha Road, Bahuman, Hafizabad, Hafizabad, Pakistan",Crescent Bahuman,Tier 1 Supplier,
+The PAS Group,"Cs.Sa-41, Zirabo, Savar, Dhaka",Ratul Knitwears Ltd,Tier 1 Supplier,
+The PAS Group,"Baupara Kaultia Gazipur SadarGazipur,Dhaka, Bangladesh",Work Field Fashion Wears,Tier 1 Supplier,
+The PAS Group,"Qingnian Rd Liuqiao TownTongzhou District,Nantong, China",Tongzhou Skyline Garments Co Ltd,Tier 1 Supplier,
+The PAS Group,"Zirani Bazar, Kashimpur, Gazipur, Dhaka",Radial International Ltd (Unit-2),Tier 1 Supplier,
+The PAS Group,"Yaojiaoyuan VillageBaipu Town, Rugao County,Nantong, China",Nantong Hesheng Garment Co Ltd,Tier 1 Supplier,
+The PAS Group,"(South of Industry Zone) Team 8, Fengxian VillageLiuqiao Town, Tongzhou District,Nantong, China",Nantong Jun Yue Garment Co Ltd,Tier 1 Supplier,
+The PAS Group,"No 7 Xiangyang RoadBeiWan Village, Zhutang Town,Jiangyin, China",Jiangyin Dong AO Garment Co Ltd,Tier 1 Supplier,"[32.009016, 112.122426]"
+The PAS Group,"No. 666, Huzhong South RoadJianhu County,Yancheng, China",Jiangsu Rino Garment Co Ltd,Tier 1 Supplier,
+The PAS Group,"66 Gaoxing Road, Gaohu Industrial Zone, Yinglin Town, Jinjiang, Fujian, China",Jinjiang Libixing Garments & Weaving Co. Ltd.,Tier 1 Supplier,
+The PAS Group,"Guozhai, Gaishan Town, Cangshan District, Fuzhou, Fujian, 350025, China",Fuzhou Donglin Shoe Co Ltd,Tier 1 Supplier,
+The PAS Group,"Donghaian Development Zone, Shenhu Town, Jinjiang, Fujian, China",Fujian Jinjiang Huamei Knitting & Clothing Co Ltd,Tier 1 Supplier,
+Levi Strauss & Co.,"Lot C4 Khanh Phu Industrial Zone Yen Khanh District, Ninh Binh, Ninh Binh, Vietnam",Nien Hsing (Ninh Binh) Garment Co Ltd,Tier 1 Supplier,
+Levi Strauss & Co.,"1. Organize Sanayi Bolgesi Havaalani Kavsagi PTT Karsisi, Malatya, East Anatolia, Turkey",Taha Dıs Giyim San. Ve Tic. Ltd. Sti.,Tier 1 Supplier,
+Levi Strauss & Co.,"Terazidere Mh. Gunes Cad. No 56, Bayrampasa Istanbul, 34035, Turkey",Celik Corap Sanayi Ve Ticaret A.S.,Tier 1 Supplier,
+Levi Strauss & Co.,"30-138 Moo 1, KhokkhamThailand","Sincerely screen Co.,Ltd",Tier 1 Supplier,
+Levi Strauss & Co.,"12 Moo 4, Tumbol Lakhok, Muang PathumthaniThailand","S.T. Screen Co., Ltd",Tier 1 Supplier,
+Levi Strauss & Co.,"D 15/8 DINH DUC THIEN ST, BINH CHANH DISTRICT, THANH PHO HO CHI MINH, VIETNAM","Thuan Phuong Embroideries Garments Co.,Ltd - Binh Chanh Factory",Tier 1 Supplier,
+Levi Strauss & Co.,"275 NGUYEN VAN LUONG ST., DIST. 6, HCMC, HO CHI MINH CITY, THANH PHO HO CHI MINH, VIETNAM",Thuan Phuong Embroideries Garments Co. Ltd,Tier 1 Supplier,
+Levi Strauss & Co.,"208 LE LOI STREET, SON TAY TOWN,, HA NOI CITY, Vietnam",Son Ha Garment Joint Stock Company,Tier 1 Supplier,
+Levi Strauss & Co.,"No. 2A Road  No. 8 Song Than 1 Industrial Zone Di An Town, Thu Dau Mot, Binh Duong, Vietnam",Pungkook Saigon Two Corporation,Tier 1 Supplier,
+Levi Strauss & Co.,"LOT 22 & 23 LONG THANH IZ, LONG THANH, Vietnam","Lexco Co., Ltd.",Tier 1 Supplier,
+Levi Strauss & Co.,"NO. 8 BACH DANG STREET, HUNG YEN CITY,, HUNG YEN PROVINCE, Vietnam",Hung Yen Garment Corporation - Joint Stock Company,Tier 1 Supplier,
+Levi Strauss & Co.,"Doan Bai Commune, Hiep Hoa District, Bac Giang Province, 21000, Bac Giang",Ha Phong Export Garment Joint Stock Company,Tier 1 Supplier,
+Levi Strauss & Co.,"LOT B3 - ROAD 15A LOTECO EPZ - LONG BINH, BIEN HOA, Vietnam","Branch of Yupoong Vietnam Co.,Ltd",Tier 1 Supplier,
+Levi Strauss & Co.,"349 Giap Hai Dinh Ke Ward, Bac Giang, Bac Giang, Vietnam",Bac Giang garment corporation,Tier 1 Supplier,
+Levi Strauss & Co.,"50/109-114 Moo. 4 ,ThataladSampran, Sri Lanka","Sampran Fashion House Co.,Ltd.",Tier 1 Supplier,
+Levi Strauss & Co.,"192, Petchkasem Rd, SOI 28, Pasicharoen, Bangkok, 10160, Thailand","Gamma Industries Co., Ltd.",Tier 1 Supplier,
+Levi Strauss & Co.,"Lahore Sargodha Road, Bahuman, Hafizabad, Hafizabad, Pakistan",Crescent Bahuman,Tier 1 Supplier,"[31.8728237, 73.4779532]"
+Levi Strauss & Co.,"Calle Alisos No. 113 Residencial Lomas, Ensenada, Baja California, 22890, Mexico",Factory 1 S.A. de C.V.,Tier 1 Supplier,
+Levi Strauss & Co.,"105-106, NSEZ, SDF Block, K- 9, Block A, Sector - 106, Noida, Uttar Pradesh, 201306, India",RADNIK AUTO EXPORTS,Tier 1 Supplier,
+Levi Strauss & Co.,"No. 93/25/1 & 24/2 Kempanayakanahalli Bannerghatta Jigani Hobli Anekal Taluk, Bangalore, Karnataka, India","Aquarelle India Pvt. Ltd.,(Unit 2)",Tier 1 Supplier,"[12.716278, 77.6949442]"
+Hugo Boss AG,"Zagrebacka 94, Varazdin, 42000, Croatia",Varteks d.d.,Tier 1 Supplier,
+Hugo Boss AG,"Lot A2, 4 EPZ, Bien Hoa, Bien Hoa, Vietnam",Yupoong Vetnam Co. Ltd,Tier 1 Supplier,
+Hugo Boss AG,"via dell'industria 7/C, Montano Lucino, 22070, Italy",TCP S.R.L,Tier 1 Supplier,
+Hugo Boss AG,"Jamirdia, Habirbari, Valuka, Valuka, Dhaka, Bangladesh",Square Fashions Ltd,Tier 1 Supplier,
+Hugo Boss AG,"NO.5 NAVAL HOSPITAL ROAD, PERIAMET, CHENNAI, 600003, India",Simply Suedes,Tier 1 Supplier,"[13.0829997, 80.2668252]"
+Hugo Boss AG,"Phu Ung Commune, An Thi District, Hung Yen, 700000, Vietnam",Smart Shirts Knitting,Tier 1 Supplier,
+Hugo Boss AG,"Mayis Mahallesi 19, Kavak Samsun, 55, Turkey",Novak Konfeksiyon San. Ve Tic. Ltd.,Tier 1 Supplier,
+Hugo Boss AG,"Rocfeler-Promishlena Zona, Petritch, 2850, Bulgaria",Omega Textil,Tier 1 Supplier,
+Hugo Boss AG,"Town West Industrial Zone, ZhaoQing, 526100, China",LINK WORLDWIDE HOLDINGS LTD,Tier 1 Supplier,
+Hugo Boss AG,"Arcibalda Rajsa bb, VRbas, 21240, Serbia",Manyu d.o.o.,Tier 1 Supplier,
+Hugo Boss AG,"Ring Road 1. E.P.Z., Katunayake, Sri Lanka",Lanka Leather Fashion Ltd.,Tier 1 Supplier,
+Hugo Boss AG,"302/547 POST-NATIONAL UNIVERSITY, GAZIPUR, 1704, Bangladesh",INTERFAB SHIRT MANUFACTURING LTD,Tier 1 Supplier,
+Hugo Boss AG,"Wysokie, Ul. Brzeska 4, Miedzyrzec Podlaski, 21-560, Poland",Ipaco SP Z.O.O.,Tier 1 Supplier,
+Hugo Boss AG,"ZONA IND.LE PIAN DI PIECA, SAN GINESIO, 62026, Italy",Feel Blue,Tier 1 Supplier,"[43.0768865, 13.2808967]"
+Hugo Boss AG,"No. 38/L, Bakers Street, Choolai, Chennai, 600112, India",Gemini Enterprises,Tier 1 Supplier,
+Hugo Boss AG,"No. 1 Development Avenue, Dawu, Hubei Province, 432800, China",Anna Fashion Ltd.,Tier 1 Supplier,
+Hugo Boss AG,"GENNARO SORA 16/A, VILLONGO S. FILASTRO, 24060, Italy",BOTTONIFICIO B.A.P. S.P.A.,Tier 1 Supplier,
+Hugo Boss AG,"EKZARH IOSIF 2, MARIKOSTINOVO PETRICH, 2870, Bulgaria",Alfa Cotton LTD,Tier 1 Supplier,"[43.6160563, 25.7868931]"
+Hugo Boss AG,"Lin Hua Shan Bonded Processing District Blocks 7B and 8c, Lin Hua Port Ind. Dis., Panyu, Guan, China","All Asia Industries Co., Ltd.",Tier 1 Supplier,"[22.937244, 113.384129]"
+Hugo Boss AG,"Kayabasi Mahallesi, Basaksehir - Istanbul, 34494, Turkey",Akin Socks,Tier 1 Supplier,
+JeansWest,"G1/697 Riico Industrial Area, Phase II, Bhiwadi, District. Alwar, Rajasthan 301019",Simran International Export PVT Ltd,Tier 1 Supplier,
+JeansWest,"934 Quang Trung Street, Go Vap District, Ho Chi Minh City, Vietnam",Phoung Dong Garment JSC (PDG),Tier 1 Supplier,
+JeansWest,"P.N 2A & 2B, Opp. Dada Badi , Dada Gurudev Nagar, Sanganer, Jaipur 302029, India",Umang Exports,Tier 1 Supplier,
+JeansWest,"No.66, East on 2nd  Gongmao Road, Jishigang Industrial Area, Ningbo, Zhejiang Province, China","Ningbo Camellia Fashion & Technology Co., Ltd",Tier 1 Supplier,
+JeansWest,"No. 31, Yanfan Road, Lucheng Yanjiang Industrial Zone, Wenzhou, Zhejiang, 325000, China",Wenzhou Dongou Glasses Co. Ltd,Tier 1 Supplier,
+JeansWest,"No.31, Kangda Road, Sanxi Industrial Zone, Guoxi, Ouhai, Zhejiang, China",Wenzhou Hisight Eyewear Co. Ltd.,Tier 1 Supplier,
+JeansWest,"Wuniu Street, Yongjia, Wenzhou, Zhejiang, China","Wenzhou Youmuren Leather Co. Ltd, Wuniu Branch",Tier 1 Supplier,
+JeansWest,"Suxin Street, Suxi, Yiwu City, Zhejiang Province, China",Tiansen Clothing Co. Ltd,Tier 1 Supplier,
+JeansWest,"No. 105 Wuxiang North Road, Wuxiang Industrial Zone, Ningbo, Zhejiang, China",Ningbo Kangsheng Century Textiles Co. Ltd,Tier 1 Supplier,
+JeansWest,"Baiyue lndustrial Zone, Jishigang Industrial Town, Ningbo, Zhejiang, China",Ningbo Jingye Fashion Co. Ltd,Tier 1 Supplier,
+JeansWest,"No.118 Zhen Ning West Rosd, JiaoChuan St, ZhenHai, NingBo, Zhejiang, China.",Ningbo White Swan Fashion Garment Co. Ltd,Tier 1 Supplier,
+JeansWest,"No. 26 Tongyi Road, Xinfeng Industrial  Zone, Nanhu, Jiaxing, China .",Jiaxing Sunshine Garment Co. Ltd,Tier 1 Supplier,
+JeansWest,"No. 72-106, Gong Mao Road, Jishigang Industrial Zone, Yinzhou, Ningbo, Zhejiang, China",Ningbo Popmode Co. Ltd.,Tier 1 Supplier,"[29.8189423, 121.5075462]"
+JeansWest,"Jinshan Road, Bali Town, Yangzhou Development Zone, Yangzhou, Jiangsu, China","Yangzhou Yaxiya Headwear & Garment Co., Ltd",Tier 1 Supplier,"[32.2852612, 119.4239681]"
+JeansWest,"21/F, Xin Chen Plaza, No. 26 North Zhong Shan Road, Nanjing, Jiangsu, China",Nanjing High Textiles Corporation,Tier 1 Supplier,"[32.0494595, 118.7841568]"
+JeansWest,"2 Huang He Road, Gaoqing Xian, Zibo, Shandong, China","ZiBo Grandview Textiles & Garments Co., Ltd.",Tier 1 Supplier,
+JeansWest,"No. 88 Xi Wen Road, Wenlin, Jiangyin, Jiangsu, China.",Younuo Garment Co. Ltd,Tier 1 Supplier,"[31.725507, 120.415645]"
+JeansWest,"Jiuhua Industrial Zone, Jiuhua Town. Rugao City, Jiangsu, China","Nantong Solamoda Garments Co., Ltd",Tier 1 Supplier,
+JeansWest,"No.375 Yongjin Road, Miaoqiao Town, Zhangjiagang City, Jiangsu, China","Jiangsu Hongfeng Computer Knitting Textiles Co., Ltd.",Tier 1 Supplier,
+JeansWest,"No .288 Guo Qiang Road, Gangzha Nantong, Jiangsu, China.",Nantong Hengkang Textile Co. Ltd,Tier 1 Supplier,"[32.056935, 120.892537]"
+Hanesbrands,"Thua Thien Hue Province Phu Bai Industrial Zone, Phu Bai",VNM - Phu Bai - #1,Tier 1 Supplier,"[16.383061, 107.69052]"
+Hanesbrands,"Thua Thien Hue Province, Phu Bai Industrial Zone",VNM - Phu Bai - #2,Tier 1 Supplier,"[16.383061, 107.69052]"
+Hanesbrands,"Yen Lich Village, Dan Tien Commune, Hung Yen",Hung Yen North,Tier 1 Supplier,"[20.8460342, 106.0096511]"
+Hanesbrands,"Ching Nghia Commune, Kim Dong District, Hung Yen",Hung Yen South,Tier 1 Supplier,
+Hanesbrands,Parque Industrial de Camuy,Camuy - Knit Plant,Tier 1 Supplier,"[18.3465708, -66.823456]"
+Hanesbrands,"Carr #3, KM 83.6, Humacao",Humacao,Tier 1 Supplier,"[18.1474652, -65.8161511]"
+Hanesbrands,"643 West Pine St., Mt. Airy, NC",Mount Airy Sock,Tier 1 Supplier,"[36.497605, -80.6169172]"
+Hanesbrands,"138 Elamsville Rd., Stuart, VA",Woolwine,Tier 1 Supplier,
+Hanesbrands,"1904 W. Clark Rd., Clarksville, AR",Clarksville Hosiery,Tier 1 Supplier,"[35.4639906, -93.48955389999999]"
+Hanesbrands,"9700 Lackman, Lenexa, KS",GFSI - Lackman Rd,Tier 1 Supplier,
+Hanesbrands,"9700 Commerce Parkway, Lenexa, KS",GFSI - Lenexa (Commerce Pkwy),Tier 1 Supplier,"[38.9533222, -94.766408]"
+Hanesbrands,"101 Lawley Street, Durban",Durban - Jacobs Plant,Tier 1 Supplier,"[-29.935674, 30.980522]"
+Hanesbrands,"No. 99 Moo 1, Highway No. 214, Surin",Surin Plant,Tier 1 Supplier,"[33.9144649, -118.3958345]"
+Hanesbrands,"77 Blvd. Mihai Viteazu, Zalau",Zalau Plant,Tier 1 Supplier,"[47.20112899999999, 23.0533773]"
+Hanesbrands,"Andreja Hlinku 3, Cadca",Cadca Plant,Tier 1 Supplier,"[49.437997, 18.7911468]"
+Hanesbrands,"Parc Industrial UTA, Arad",Arad Parc Industrial Plant,Tier 1 Supplier,"[46.2079837, 21.2623079]"
+Hanesbrands,"Zona Libera, Curtici, Arad",Curtici FTZ Plant,Tier 1 Supplier,
+Hanesbrands,"KM 202.5 Carr. Mx, Cd. Juarez, Huichapan, Hidalgo",Huichapan,Tier 1 Supplier,"[20.3851402, -99.6537889]"
+Hanesbrands,"PRIVADA MARTEL SN MANZANA 4, LOTE 7 & 8, Reynosa",GFSI SOUTHWEST S DE RL DE CV,Tier 1 Supplier,
+Hanesbrands,"Laguna Int'l Industrial Park, Mamplasan, Biban, Laguna",PIPLAY - Binan Laguna Plant,Tier 1 Supplier,"[14.2902879, 121.0830336]"
+VF Corporation,"Lot 8 & 9 Road 4 Linh Trung Export Processing Zone2 Thu Duc, Hochiminh, Thanh Pho Ho Chi Minh, Vietnam","Yesum Vina Co., Ltd.",Tier 1 Supplier,
+VF Corporation,"Chinh Nghia Commune Kim Dong District, Hung Yen, Hung Yen, Vietnam","Youngone Hung Yen Co., Ltd.",Tier 1 Supplier,"[20.7586218, 106.0610787]"
+VF Corporation,"Minh Duc Commune Tu Ky District, Hai Duong, Hai Duong, Vietnam","Sees Vina Co., Ltd.",Tier 1 Supplier,"[20.7982784, 106.3993658]"
+VF Corporation,"Lot Cn-B4 Phu Nghia Industrial Park Phu Nghia Commune Chuong My District, Hanoi, Thu Do Ha Noi, Vietnam","Star Fashion Co., Ltd.",Tier 1 Supplier,
+VF Corporation,"Phuc Khanh Industrial Park Thai Binh City, Thai Binh, Thai Binh, Vietnam","Nien Hsing Garment Co., Ltd.",Tier 1 Supplier,"[20.4414804, 106.3126598]"
+VF Corporation,"1A Quarter An Phu Ward Thuan An Town, Binh Duong, Binh Duong, Vietnam","Pungkook Saigon III Co., Ltd.",Tier 1 Supplier,"[10.871071, 106.7352003]"
+VF Corporation,"An Trang T- Junction Truong Son Town An Lao District, Hai Phong, Thanh Pho Hai Phong, Vietnam","Golden Star Co., Ltd., (Stella)",Tier 1 Supplier,"[20.816213, 106.6062901]"
+VF Corporation,"Bui Vien Street Nguyen Duc Canh Industrial Zone Tran Hung Dao Ward, Thai Binh City, Thai Binh, Vietnam","Minh Tri Thai Binh Co., Ltd.",Tier 1 Supplier,"[20.4470665, 106.325072]"
+VF Corporation,"Area 6 Tien Lang Town Tien Lang District, Hai Phong, Thanh Pho Hai Phong, Vietnam","Golden Star Co., Ltd. (Tien Lang)",Tier 1 Supplier,"[20.7274827, 106.5613534]"
+VF Corporation,"Phu Thanh Tay Area Yen Thanh Ward, Uong Bi City, Quang Ninh, Vietnam","Golden Star Co., Ltd. (Uong Bi)",Tier 1 Supplier,
+VF Corporation,"No. 1 Road 5 An Phu Production Park An Phu Town, Thuan An, Binh Duong, Vietnam","General Shoes Co., Ltd.",Tier 1 Supplier,"[10.9478138, 106.7382072]"
+VF Corporation,"Quynh Coi Industrial Area Quynh Coi Town Quynh Phu District, Thai Binh, Thai Binh, Vietnam","Golden Star Co., Ltd. (Quynh Phu)",Tier 1 Supplier,
+VF Corporation,"Cam Son Ward, Cam Pha City, Quang Ninh, Vietnam","Everbest Vina Co., Ltd.",Tier 1 Supplier,"[21.0092731, 107.3109745]"
+VF Corporation,"Thanh Xa Village Nghia Hiep Commune Yen My District, Hung Yen, Hung Yen, Vietnam","Fulgent Sun Footwear Co., Ltd.",Tier 1 Supplier,"[20.9276465, 106.0493226]"
+VF Corporation,"Lot Hb3 Î²â¬â Hb4 Road No.5 Xuyen A Industrial Park My Hanh Bac Commune Duc Hoa District, Tan An, Long An, Vietnam","De. M. Co Vina Co., Ltd.",Tier 1 Supplier,
+VF Corporation,"Lot 9 Road No. 5 Vietnam Singapore Industrial Park Binh Hoa Ward Thuan An Town, Thu Dau Mot, Binh Duong, Vietnam","Esquel Garment Manufacturing Co., Ltd.",Tier 1 Supplier,"[10.9128607, 106.7293611]"
+VF Corporation,"1111 W Lincoln Ave, Milwaukee, Wisconsin, United States","Wisconsin Knitwear, Inc.",Tier 1 Supplier,"[43.0026695, -87.9265058]"
+VF Corporation,"349 Giap Hai Dinh Ke Ward, Bac Giang, Bac Giang, Vietnam",Bac Giang garment corporation,Tier 1 Supplier,"[21.2856174, 106.2223921]"
+VF Corporation,"127 Oakley Ave., White Plains, New York, United States",Smith & Warren,Tier 1 Supplier,"[41.0360889, -73.7561058]"
+VF Corporation,"3200 Randolph, Bellwood, Illinois, United States","Stratton Hats, Inc.",Tier 1 Supplier,"[41.8834638, -87.87085619999999]"
+Benetton Group Spa,"INONU MAH.MUAMMER AKSOY CAD.NÂ° 37/B KAT 1-2 SEFAKOY K.CEKMECE, ISTANBUL, TURKEY",UGS GIYIM SAN.VE TIC.A.S,Tier 1 Supplier,"[41.0159128, 28.803174]"
+Benetton Group Spa,"ORGANIZE SANAYI BOLGESI 1. KISIM FAHRI KARACA CADDESI NO:6, HONAZ - DENIZLI, TURKEY",IDEA HOME TEKSTIL SANAYI VE TICARET A.S.,Tier 1 Supplier,"[37.816814, 29.245629]"
+Benetton Group Spa,"SULTANCIFTLIGI MAHMUTBEY YOLU NÂ° 18 KAT 6/4 -SULTANGAZI, ISTANBUL, TURKEY",TEKKAN TEKSTIL SAN.VE TIC LTD STI,Tier 1 Supplier,"[41.0082376, 28.9783589]"
+Benetton Group Spa,"ORGANIZE SAN BOLGESI, MAH 3 CADDE N.10, GERKEZKOY - TEKIRDAG, TURKEY",BROSS TEKSTIL SANAYI VE TICARET A.S.,Tier 1 Supplier,"[41.2631711, 27.9420351]"
+Benetton Group Spa,"PINAR MAH.BABAESKI YOLU NÂ°5 KM NÂ°165 MERKEZ, KIRKLARELI, TURKEY",DEBATEKS TEKSTIL SAN.VE TIC LTD STI KIRKLARELI BRANCH,Tier 1 Supplier,"[41.7114618, 27.2116737]"
+Benetton Group Spa,"02 RUE JERISALEM, MOKNINE - MONASTIR, TUNISIA",STYLE FASHION SARL,Tier 1 Supplier,"[31.768319, 35.21371]"
+Benetton Group Spa,"ROUTE DE GABES KM 4, IMPASSE MAROUAN - SFAX, TUNISIA",VENUS CONFECTION SARL,Tier 1 Supplier,"[34.714127, 10.7277574]"
+Benetton Group Spa,"RUE ABDELAZIZ THAALBI, MOKNINE - MONASTIR, TUNISIA",STE BSB EXPORT,Tier 1 Supplier,"[35.6642572, 10.9002992]"
+Benetton Group Spa,"ZONE IND. SOUASSI ROUTE EL JEM, SOUASSI, TUNISIA",STE MB SARL,Tier 1 Supplier,
+Benetton Group Spa,"AVENUE HABIB BOURGUIBA, SIDI BOUZID l, TUNISIA",2F SARL,Tier 1 Supplier,"[36.800399, 10.1866195]"
+Benetton Group Spa,"ZONE INDUSTRIELLE SIDI BOUZID, SIDI BOUZID, TUNISIA",SOCIETE TRC 2 SARL,Tier 1 Supplier,"[35.0460774, 9.5047835]"
+Benetton Group Spa,"PANTELEJSKA, 58, NIS l, SERBIA",TESSIL INDUSTRY GROUP D.O.O.,Tier 1 Supplier,
+Benetton Group Spa,"PANTELEJSKA, 58, NIS l, SERBIA",TUSCAN FAMILY D.O.O. NIS,Tier 1 Supplier,"[43.3284115, 21.9073746]"
+Benetton Group Spa,"PANTELEJSKA, 58, NIS l, SERBIA",OLIMPIAS KNITTING SERBIA D.O.O.,Tier 1 Supplier,"[43.3284115, 21.9073746]"
+Benetton Group Spa,"PANTELEJSKA, 58, NIS l, SERBIA",TECNOSTIRO D.O.O. NIS,Tier 1 Supplier,"[43.3284115, 21.9073746]"
+Benetton Group Spa,"KARADZICEVA, 4, NIS l, SERBIA",NISWEAR D.O.O.,Tier 1 Supplier,
+Benetton Group Spa,"KARADZICEVA, 4, NIS l, SERBIA",NORA SERBIA D.O.O.,Tier 1 Supplier,"[43.3190347, 21.8958212]"
+Benetton Group Spa,"PANTELEJSKA, 58, NIS l, SERBIA",BENETTON SERBIA D.O.O.,Tier 1 Supplier,"[43.3284115, 21.9073746]"
+Benetton Group Spa,"KARADZICEVA, 4, NIS l, SERBIA",MARTYTEX D.O.O.,Tier 1 Supplier,"[43.3190347, 21.8958212]"
+Benetton Group Spa,"STR. AMURGULUI, 13, TULCEA l, ROMANIA",SEWING STITCH S.R.L.,Tier 1 Supplier,
+Columbia Sportswear,"DONG ER ROAD NORTHERN SECTION LEIYANG ECONOMIC DEVELOPMENT ZONE, HENYANG, China","LEIYANG BAOSHENG FOOTWEAR INDUSTRY CO.,LTD.",Tier 1 Supplier,"[26.422277, 112.859759]"
+Columbia Sportswear,"Lot No. 4, Nghia Son Industrial Group, Nghia Hung District, Nam Dinh Province, Vietnam",NAM HA MECHANIC & TRADING Joint Stock Company,Tier 1 Supplier,
+Columbia Sportswear,"TRAN PHU STREET PHUC YEN TOWN, PHUC YEN, Vietnam",PHUCYEN SHOES JOINT STOCK COMPANY,Tier 1 Supplier,
+Columbia Sportswear,"The street North Lane 3, Dongguan, 523121, China",HONG SHENG LEATHER,Tier 1 Supplier,
+Columbia Sportswear,"Shuang Yang Town, Lou Jiang District, Quanzhou, Fuijian, China","FUJIAN SUNSHINE FOOTWEAR Corporation, Ltd",Tier 1 Supplier,"[24.874132, 118.675675]"
+Columbia Sportswear,"XIAFU INDUSTRIAL PARK, JINJIANG, China","JINJIANG HUAKUN SHOES CO., LTD",Tier 1 Supplier,"[24.781681, 118.552365]"
+Columbia Sportswear,"KWIN NO.1038, PLOT NO. 14/1-14/5 39/6, HNGETPYAWTAW KWIN, PYITAWTHAR VILLAGE, HLEGU TOWNSHIP, YANGON, Myanmar (Burma)","MILA GARDEN CO., LTD.",Tier 1 Supplier,
+Columbia Sportswear,"Thuan Yen Industrial Zone, Hoa Thuan Ward,, Tam Ky, Quang Nam, Vietnam",Phuoc Ky Nam Factory Joint Stock Company,Tier 1 Supplier,
+Columbia Sportswear,"Lot 1D, Ta Hien Road, Phuc Khanh Industrial Zone, Thai Binh City, Thai Binh Province, Vietnam",MAXPORT - FACTORY NO. 2,Tier 1 Supplier,
+Columbia Sportswear,"NO 142 QUANG TRUNG STREET TRAN HUNG DAO WARD THAI BINH CITY, THAI BINH, Vietnam",VIET THAI EXPORT GARMENT Joint Stock Company,Tier 1 Supplier,
+Columbia Sportswear,"160 Minh Cau St., Thai Nguyen City, Thai Nguyen Province, Vietnam",TNG INVESTMENT & TRADING JSC TNG1 Branch,Tier 1 Supplier,"[21.5882247, 105.8387339]"
+Columbia Sportswear,"B1,B2,B5-B12 GiAO LONG INDUSTRIAL PARK CHAUTHANH DISTRICT, BEN TRE, Vietnam","ALLIANCE ONE APPAREL CO., LTD",Tier 1 Supplier,"[10.3082409, 106.3660193]"
+Columbia Sportswear,"Thanh Tan Industrial Zone Kien Xuong  District, Thai Binh, Vietnam",THANH TAN GARMENT FACTORY,Tier 1 Supplier,"[20.4344216, 106.4258643]"
+Columbia Sportswear,"61 LY CHIEU HOANG, WARD 10, DISTRICT 6,, HOCHIMINH CITY, Vietnam",BRANCH OF DANG NGUYEN EMBROIDERY GARMENT COMPANY LIMITED,Tier 1 Supplier,"[10.738019, 106.623413]"
+Columbia Sportswear,"AU LAU INDUSTRIAL ZONE AU LAU COMMUNE, YEN BAI, Vietnam",UNICO GLOBAL YB LIMITED COMPANY,Tier 1 Supplier,
+Columbia Sportswear,"Hoang Xa Industrial Zone Thanh Thuy  District, Phu Tho Province, Vietnam",SON HA PHU THO COMPANY LIMITED,Tier 1 Supplier,
+Columbia Sportswear,"Thuong Hamlet, Tan An, Yen Dung, Bac Giang Province, Vietnam",UNICO GLOBAL VN,Tier 1 Supplier,"[21.258758, 106.275588]"
+Columbia Sportswear,"LOT 12, DIEN NAM DIEN NGOC INDUSTRIAL ZONE, DIEN BAN DISTRICT, DA NANG, Vietnam","VIET VUONG 2 CO., LTD",Tier 1 Supplier,
+Columbia Sportswear,"LOT A-2,3,4 LOTECO E.P.Z.,, BIEN HOA CITY, Vietnam","YUPOONG VIETNAM CO., LTD.",Tier 1 Supplier,
+Columbia Sportswear,"No.8 Huai Xi Road, Chu Zhou Industrial Zone, Huaian City, Jiangsu, China","SUN GRACE GLOVE (HUAI AN) CO., LTD",Tier 1 Supplier,"[33.973962, 118.772094]"
+The Walt Disney Company,"694 1ST WAY, ALEXANDER CITY, ALABAMA, USA","Aprinta Group, LLC",Tier 1 Supplier,"[32.9418611, -85.9411701]"
+The Walt Disney Company,"7422 Chapman Ave, Garden Grove, California, 92641, USA",Evans Mfg,Tier 1 Supplier,
+The Walt Disney Company,"2035 E. Vista Bella Way, Rancho Dominguez, California, United States",Massive Prints,Tier 1 Supplier,"[33.8515794, -118.2301849]"
+The Walt Disney Company,"720 Iwilei Rd, Ste 250, Honolulu, Hawaii, 96819, USA",MK Fashion,Tier 1 Supplier,
+The Walt Disney Company,"4215 Tudor Ln, Greensboro, North Carolina, 27410, USA",Senator Pen Corp,Tier 1 Supplier,
+The Walt Disney Company,"3210 Oak Grove Ave, Ste B, Waukegan, Illinois, 60087, USA",LCP Complete,Tier 1 Supplier,
+The Walt Disney Company,"5253 W Roosevelt Rd, Cicero, Illinois, 60804-1222, USA",Elegant Packaging,Tier 1 Supplier,"[41.8651151, -87.75606309999999]"
+The Walt Disney Company,"101 7th Ave, Newport, Minnesota, 55055, USA",Diversified Mfg Corp,Tier 1 Supplier,
+The Walt Disney Company,"10368 W Centennial Rd, Littleton, Colorado, 80127, USA",CPI Card Group Inc.,Tier 1 Supplier,
+The Walt Disney Company,"15029 S Figueroa St, Gardena, California, 90248, USA",Kimberly Enterprises,Tier 1 Supplier,
+The Walt Disney Company,"801 Moreau Rd, St Genevieve, Missouri, 63670, USA","Impact, NVP Division",Tier 1 Supplier,
+The Walt Disney Company,"9000 W Heather Ave, Milwaukee, Wisconsin, 53224, USA",Olympus Group,Tier 1 Supplier,
+The Walt Disney Company,"997 W Kennedy Blvd, A-1, Orlando, Florida, 32810, USA",International Press,Tier 1 Supplier,
+The Walt Disney Company,"1205 12Th Ave NW, Owatonna, Minnesota, 55060, USA",Black Forest Ltd,Tier 1 Supplier,
+The Walt Disney Company,"2020 Enterprise Parkway, Twinsburg, Ohio, 44087, USA",Giesecke & Devrient America Inc,Tier 1 Supplier,
+The Walt Disney Company,"304 Arcadia Dr, Greenville, South Carolina, 28609, USA",Castle Ind,Tier 1 Supplier,
+The Walt Disney Company,"2840 W Orange Ave, Apopka, Florida, 32703, USA",Summit Resources International,Tier 1 Supplier,
+The Walt Disney Company,"795 Waterman Ave, Providence, Rhode Island, 2914, USA",Imperial-Deltah Inc,Tier 1 Supplier,
+The Walt Disney Company,"5648 Jason Lee Place, Sarasota, Florida, 34233, USA",Tattoo Factory Inc,Tier 1 Supplier,
+The Walt Disney Company,"2771 Plaza Del Amo, Ste 807, Torrance, California, 90503, USA",Five Star Graphics,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Lot A1, Tan Huong Industrial Park, Tan Huong Ward, Chau Thanh District, Tien Giang Province, Vietnam, Tien Giang, Vietnam",King Hamm Industrial Co. Ltd,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Lot 61, Road B, Linhtrung Export Processing Zone II Binh Chieu Ward, Ho Chi Minh, Vietnam",King Hung Garments Industrial Co. Ltd,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","N5-N6 My Phuoc Industrial Park Binh Duong, Binh Duong, Vietnam",Diamond Vietnam Co Ltd,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Road No. 1, Cha La Industrial Park, Binh Linh Hamlet, Cha La Village Duong Minh Chau District, Tay Ninh, Vietnam",Pou Hung Vietnam Company Limited,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","#66-68-70, Linh Trung Export Processing Zone II Binh Chieu Ward, Thu Duc District, Ho Chi Minh City, Vietnam",Quint Major Industrial Vietnam Co. Ltd,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","D10/89Q National Highway 1A Tan Tao Ward Ho Chi Minh City, Thanh Pho Ho Chi Minh, Vietnam",Pou Yuen Vietnam Company Limited (PVN),Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","4652 E Brickell St,. Suite A  Ontario, California, United States",Solar Link International Inc.,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","408 Se 79th Ave  Portland, Oregon, United States",Portland Garment Factory,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","290 South Street  Walpole, MA, United States",T.R. Miller Co. Inc.,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Bakir Ve Princ Sanayicileri Sitesi M.Kurdoglu Cad Beylikduzu, Istanbul, Turkey",Milteks Tekstil San. Ve Tic.A.S.,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Cihangir Mah. Ord.Prof.Dr.Ali Fuat Basgil Cad. No:20/1 AvcÄ±lar, Istanbul, Marmara, Turkey",Memteks Tekstil San. Ve Tic. A.S.,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","No 231, Chung Shan Road, Sec. 1 She-Tou Changhua Hsien, Taiwan, Taiwan",Glider Co. Ltd.,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","No. 61 Village No. 5 Chang Harn Sub-District Chang Harn District Roi Et Province, Roi Et, Roi Et, Thailand","Trax Intertrade Co., Ltd.",Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","1015 Moo 2, Noon Pheung  Varinchamrab, Ubon Ratchathani, Thailand",Vertex Apparel Co Ltd,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","19 Km. Daska Road, Sialkot, Pakistan",Leatherware PVT LTD,Tier 1 Supplier,"[32.366441, 74.404735]"
+"New Balance Athletic Shoe, Inc.","Block C-6, 2nd Avenue Corner 5th St. Lapu- Lapu City, Central Visayas, Philippines",Metro Wear Inc.,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Block 1, Lot No.8, Bo. Tunasan, R.M. Tlosejo Industrial Complex  Muntinlupa City, Metro Manila, Philippines",Tri-Phil International Inc,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Jl Pramukaraya Km 0.99 No.18 Desa Bunder, Kec.Jatiluhur Purwakarta, Jawa Barat, Indonesia",PT Metro Pearl Indonesia,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Av. Valle Del Sur #10524, Parque Industrial Valle Del Sur, Tijuana, B.C., Mexico",Pou Chen Mexico,Tier 1 Supplier,
+"New Balance Athletic Shoe, Inc.","Sedlackova 472/6, 39701-Pisek, Czech Republic Pisek, Czech Republic",ACE Sport S.R.O.,Tier 1 Supplier,
+Tesco PLC,"353 ANH DUNG KIEN THUYDUONG KINH DISTRICT, Vietnam",Yen Of London,Tier 1 Supplier,
+Tesco PLC,"Quang Hop CommuneQuang Xuong District, Vietnam",Gar 10 888,Tier 1 Supplier,
+Tesco PLC,"NAM OF LONDONMY THO INDUSTRIAL ZONE, Vietnam",Nam Of London Co Ltd,Tier 1 Supplier,
+Tesco PLC,"234 Quarter 06-Ward 9, ,My Tho City, Tien Giang Province, Vietnam",Tien Tien Garment Joint Stock Company,Tier 1 Supplier,
+Tesco PLC,"Yen Ninh town, Yen Khanh districtYen Ninh town, Yen Khanh district, Vietnam",Excel Tailoring Co. Ltd,Tier 1 Supplier,"[20.1788256, 106.0728356]"
+Tesco PLC,"Unit 14 Crusader Estate167 Hermitage Road, united kingdom",Fashion Enter Ltd,Tier 1 Supplier,"[51.576104, -0.09157699999999999]"
+Tesco PLC,"39 SPALDING STREETLEICESTER, united kingdom",Galaxy Knitwear Ltd,Tier 1 Supplier,
+Tesco PLC,"Coxmoor Road, Sutton in Ashfield, Nottingham, Nottinghamshire, NG17 5LA, United Kingdom",The Sock Mine,Tier 1 Supplier,"[53.1249754, -1.2351647]"
+Tesco PLC,"San. Mah. Davut PaAYa cadno:42 Gungoren, Turkey",Ugur Balkuv Trako San.ve Tic.ltd.sta,Tier 1 Supplier,
+Tesco PLC,"MERKEZ MAHCILLIOGLU SOKAK NO 21/A, Turkey",Vestimore Tekstil Ith Ihr San Ve Tic A S,Tier 1 Supplier,
+Tesco PLC,"52-58 Rollerston Street52-58 Rollerston Street, united kingdom",Basic Premier Ltd,Tier 1 Supplier,
+Tesco PLC,"Turkgucu Koyu Mevkii., Turkey",Penti Corap Sanayi Ve Ticaret A.s.,Tier 1 Supplier,
+Tesco PLC,"Terazidere, Gunes CDSinan Sok No 3Bayrampasa, Turkey",Serif Corap San Ve Tic As,Tier 1 Supplier,
+Tesco PLC,"DOSAB 2.ALASAR CADDESIBURSA, Turkey",Oztekstil San. Ve Tic.ltd.sti.,Tier 1 Supplier,
+Tesco PLC,"TURKGUCU KOYU MEVKII3 KM, Turkey",Penti Corap San Ve Tic A.s.,Tier 1 Supplier,
+Tesco PLC,"Goztepe MahKaranfil Sok. No. 48Bagcilar, Turkey",Hazar Tekstil San. Ve Dis. Tic. A.s,Tier 1 Supplier,
+Tesco PLC,"Karakurt Yolu Uzeri 1891 Sk No:52Denizli, Turkey",Gamateks Tekstil San.ve Tic As,Tier 1 Supplier,"[37.7994662, 29.0936334]"
+Tesco PLC,"ORGANIZE SANAYI BOLGESI 4. CADDE NO:17AORUM, Turkey",Gurur Tekstil San. Ve Tic. Ltd. Sti.,Tier 1 Supplier,
+Tesco PLC,"2. Anafartalar MahHalil Erdogan Cad. No:71/CSehzadeler, Turkey",FB Tekstil Manisa Branch,Tier 1 Supplier,
+Tesco PLC,"1891 Sok, Karakurt Yolu Uzeri, 20020, Denizli",Gamateks Tekstil San Tic As,Tier 1 Supplier,"[37.7994662, 29.0936334]"
+C&A,"Plot D6, KCN M? Trung, My Loc District, Nam Dinh",Youngor Smart Shirts Vietnam Co. Ltd,Tier 1 Supplier,
+C&A,"Ferozpur Road, Anam Road, Glaxo Town, 54000, Lahore",US Apparel & Textiles (Pvt) Ltd - Unit 3,Tier 1 Supplier,"[30.9331348, 74.6224755]"
+C&A,"Nishat Avenue, Nishat Nagar 22-Km, Off. Feroz Pur Road, 53100, Lahore",Nishat Mills Limited Unit - 2 (Apparel Division),Tier 1 Supplier,
+C&A,"No 661 Yangsi Rd, Zhang'an Street, Jiaojiang District, Taizhou, Zhejiang, 318017, China",Taizhou Huazhou Glasses Co. Ltd,Tier 1 Supplier,
+C&A,"Sf No 195, Vivekananthar Nagar, Thirumurugan, Poondi, Tamil Nadu, 641654 , Tirupur",Loocust Incorp Apparel Export Pvt Ltd,Tier 1 Supplier,
+C&A,"No 501, Fuqiang Road, Yinzhou, 315105, Ningbo",Ningbo U&K Fashion Garment Co. Ltd,Tier 1 Supplier,
+C&A,"6-18 Business Centre, Earl Soham, IP13 7SA, United Kingdom",Doves Clothing Ltd,Tier 1 Supplier,"[52.22589749999999, 1.266828]"
+C&A,"No. 1 Republika Street, Pernik, 2309, Bulgaria",Katerini Textile,Tier 1 Supplier,
+C&A,"Sf No 767, Dhara Puram Road, Tamil Nadu, 641664, Palladam",Amazing Exports Corporation - Unit 1,Tier 1 Supplier,
+C&A,"221, Thong Nhat street, Thai Nguyen Province, 250000, Tai Nguyen City",Viet Thai Factory,Tier 1 Supplier,
+C&A,"Lot 59, ZL AttasniaTemara, Morroco",Agz Sarl,Tier 1 Supplier,
+C&A,"No 4, 4 Ben Nghe Street, Tan Thuan Dong Ward District 7, Ho Chi Minh",Nhabe Garment Corporation - Jsc,Tier 1 Supplier,"[10.7553994, 106.7296822]"
+C&A,"Village 07, Cam Son Ward, Phu Luong District, Thai Nguyen",Phu Luong Export Garment Jsc,Tier 1 Supplier,
+C&A,"Trung An Commune, Binh Tho, 864000, My Tho",Song Tien Joint Stock Company - Factory 2,Tier 1 Supplier,"[10.3603078, 106.3316629]"
+C&A,"Truong Xuan Industrial Zone, Tam Ky City, Quang Nam Province",Tuan Dat Co. Ltd,Tier 1 Supplier,
+C&A,"Lot G9 - A Part Of Lot G2 G3 G8 Road N-1 Bao Minh Industrial Zone, Vu Ban District, Nam Dinh, Vietnam",Padmac Vietnam Ltd. Liability Co.,Tier 1 Supplier,
+C&A,"NA0SACH Industrial Zone, Nam Sach-Hai Duong, 0084, Nam Sach",Ever Glory Vietnam Garment Co. Ltd,Tier 1 Supplier,
+C&A,"Pasichna Str. 127, Lviv, 79035, Ukraine",Rolada Ltd.,Tier 1 Supplier,
+C&A,"67, Khmelnitskogo Str., Lviv Region, 80100, Chervonograd",Duna Vesta Ltd,Tier 1 Supplier,
+C&A,"No 1, Cakmakli Mah. Katip Sk., KIRAC-BUYUKCEKMECE, 34000, Istanbul",Reha Tekstil Dis Tic Ve San As,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"753 POOMBUKAR NAGAR, THENNAPALAYAM EXTENSION, TIRUPUR, 641 604, INDIA",MS KAARTHIKEYAN GARMENTS,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"374A - 374A/1 LE VAN QUOI ROAD, BINH HUNG HOA WARD, BINH TAN, HO CHI MINH CITY, VIETNAM",KING STAR GARMENT CO. LTD,Tier 1 Supplier,"[10.779068, 106.604443]"
+Coles Supermarkets Australia Pty Ltd,"KM 226 HIGHWAY 6, GROUP 27, CHAM MAT WARD, HOA BINH CITY, HAO BINH PROVINCE, VIETNAM",SMA VINA VIET-HAN GARMENT IMPORT EXPORT JOINT STOCK COMPANY,Tier 1 Supplier,"[20.784775, 105.3453184]"
+Coles Supermarkets Australia Pty Ltd,"BLOCK 3, XIN HAO ROAD, XIN SHI MEN INDUSTRIAL ZONE, SHA XI ZHEN, ZHONG SHAN CITY CHINA",ZHONG SHAN CITY YONG LI WEI FASHION LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"NO 39, MIN TAI ROAD, TECHNOLOGY INDUSTRIAL PARK DEVELOPMENT ZONE, ZIBO, SHANDONG, CHINA",ZIBO LIJIANG LIGHT INDUSTRIAL PRODUCTS CO. LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"JIU JIANG SHUI ADM, CHANG PING, DONGGUAN, 523580, GUANGDONG, CHINA",TURBO KNITWEAR FASHION (DONGGUAN) CO. LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"NO 638 JINGANG ROAD, ZHANGJIAGANG CITY, JIANGSU, CHINA",ZHANGJIAGANG DONGDU TEO GARMENT CO. LTD,Tier 1 Supplier,"[31.9403133, 120.4443953]"
+Coles Supermarkets Australia Pty Ltd,"HECHENG INDUSTRIAL ZONE, DONGJIANG VILLAGE, QIAOTOU TOWN, DONGGUAN CITY, GUANGDONG, CHINA",STAR UNITED INTERNATIONAL GROUP LTD,Tier 1 Supplier,"[23.024132, 114.10316]"
+Coles Supermarkets Australia Pty Ltd,"YUANQIAO INDUSTRIAL ZONE, HUANGYAN, TAIZHOU, ZHEJIANG, CHINA",TAIZHOU HUANGYAN PUFENG ARTS & CRAFT FACTORY,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"NO, 281 QIYUN ROAD, DUANTANG NANMEN, NINGBO, ZHEJIANG, CHINA",NINGBO ORIENT HONGYE IMPORT & EXPORT CO. LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"NO, 71 BUILDING C, XIANGSHAN ROAD, THE THIRD INDUSTRIAL, ESTATE OF LUOTIAN, SONGGAN TOWN, BOAN DISTRICT, SHENZHEN, GUANGDONG, CHINA",POLY KING INDUSTRIAL CO. LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"NO, 271 XIANHU ROAD, CHENGGUAN TOWN, SHENGZHOU CITY, ZHEJIANG, CHINA",SHENGZHOU JINMAO GARMENT CO. LTD,Tier 1 Supplier,"[29.575461, 120.832397]"
+Coles Supermarkets Australia Pty Ltd,"BEILUN NEW ROAD , NO, 1069-2 BLOCK B ROOM 110, NINGBO, ZHEJIANG , CHINA",NINGBO FUTURE IMP & EXP CO. LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"NO.18 WEILIU ROAD,HUAIYIN AREA,HUAIAN CITY, JIANGSU, CHINA","JIANGSU JOYOUS GARMENTS CO., LTD.",Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"HONDAR BUILDING, 368 TONGJI NORTH ROAD, TONGAN, XIAMEN, 361100, CHINA",HONDAR UMBRELLA INDUSTRIAL CO. LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"HUA DONG ROAD, DONG LIN TOU VILLAGE, SHANGHUA TOWN, CHENGHAI DISTRICT, SHANTOU CITY, GUANGDONG, CHINA",JIAN FENG TOYS FACTORY,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"TRAPEANG TOUL VILLAGE, KAMBOL, PORSENCHEY, PHNOM PENH, CAMBODIA",FORTUNE TEO GARMENT FACTORY LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"6B, 2A STREET, VIETNAM SINGAPORE INDUSTRIAL PARK, BINH DUONG, VIETNAM",SAIGON KNITWEAR LTD,Tier 1 Supplier,"[10.9369898, 106.7317519]"
+Coles Supermarkets Australia Pty Ltd,"ZHUDAISHI, SHUITING, LANXI, ZHEJIANG, CHINA",ZHEJIANG J-WELL HOME TEXTILES CO. LTD,Tier 1 Supplier,
+Coles Supermarkets Australia Pty Ltd,"207-A, ALLWIN NAGAR, 1ST CROSS, LNS POST, COVAI ROAD, KARUR, 639 002, INDIA",LABONI COLLECTIONS,Tier 1 Supplier,"[10.9342693, 77.9852853]"
+Kmart Australia,"Binh Phuoc B, Binh Chuan Ward, Thuan An District, Binh Duong Province, Ho Chi Minh City",Vietnam Housewares Co Ltd,Tier 1 Supplier,
+Kmart Australia,"73/4 Moo.1 Khaelie, Krathumbaen, Samutsakhon, Abohar",Zenith Infant Products Co Ltd,Tier 1 Supplier,
+Kmart Australia,"37/6 Moo1 Thakham Sampharn, Sampran, Nakhornprathom","Rex Enterprises Co.,Ltd.",Tier 1 Supplier,"[13.7332752, 100.2439742]"
+Kmart Australia,"Liberty Mills Limited, A/51A S I T E, 75700, Karachi",Liberty Mills Limited,Tier 1 Supplier,"[24.9159443, 67.0072534]"
+Kmart Australia,"Ji. Raya Cipeundeuy Km 25, Rt. 20/06, Desa Cipeundeuy, Kecamatan Cipeundeuy Kabupaten Subang, Jawa Barat",Pt. Tiga Kyung Seung Garment,Tier 1 Supplier,
+Kmart Australia,"Jl. Raya Sukabumi Kp. Cipanggulaan Rt.06/02 Desa Kompa Parung Kuda Kab. Sukabumi-Jawa, Sukabumi",Pt. Doosan Jaya,Tier 1 Supplier,"[-6.825444399999999, 106.7615446]"
+Kmart Australia,"Jl Brigjend Sudiartokm.11 Semarang, Semarang",Pt Sai Apparel,Tier 1 Supplier,"[-7.0167929, 110.4871037]"
+Kmart Australia,"Tokyo Plast International Limited, Plot No. 363/1, Shree Ganesh Industrial Estate. Kachigaum Road, Daman, Maharashtra",Tokyo Plast,Tier 1 Supplier,"[20.3973736, 72.8327991]"
+Kmart Australia,"Sf.No.181, Kollupalayam, Arasur, Coimbatore, Tamil Nadu",Quantum Knits,Tier 1 Supplier,"[10.6405006, 77.0611235]"
+Kmart Australia,"Plot No 274, Udyog Vihar, Phase - 2, 122016, Gurgaon",Pearl Global Industries Limited Gurgaon,Tier 1 Supplier,
+Kmart Australia,"Unit V, 2/642A,Ncc House, Mangalam Road, Tirupur, Tamilnadu",NETWORK CLOTHING COMPANY (P) LTD.,Tier 1 Supplier,
+Kmart Australia,"S-10 Industrial Area, Jalandhar, Punjab",Krishna Sports Industries,Tier 1 Supplier,
+Kmart Australia,"Ceela International, B-11, Sports & Surgical Complex, Kapurthala Road, Jalandhar, Punjab",Ceela International,Tier 1 Supplier,"[31.3353662, 75.5295276]"
+Kmart Australia,"All Time Plastics Pvt Ltd, 377/1 (1&2), 371/1(2) & 371/1(.C), Kachigam Char Rasta, Daman","All Time Plastics Pvt Ltd, Unit 1",Tier 1 Supplier,"[20.37972, 72.884287]"
+Kmart Australia,"A.S.K. Apparels, 11/1,Periyar Nagar West, Karur, Tamilnadu., Karur",A.S.K. Apparels,Tier 1 Supplier,"[13.117777, 80.21959600000001]"
+Kmart Australia,"Zhangjia, Caota Town, Zhuji City, Zhejiang Prov","Zhuji Menglite Knitting Co.,Ltd",Tier 1 Supplier,"[29.683903, 120.13483]"
+Kmart Australia,"Xinfa North Road, Huang Pu Town, Zhong Shan City, Zhong Shan, Guang Dong",Zhongshan Horizon Outdoor Products Ltd,Tier 1 Supplier,
+Kmart Australia,"Baishawan Industrial Park, North Qiwan Avenue, East District, Zhong Shan, Guangdong",Zhongshan Camry Electronic Co. Ltd.,Tier 1 Supplier,"[22.517585, 113.39277]"
+Kmart Australia,"Side Of Du Xing West Road, Du Tou Village, South District, Zhong Shan, Guangdong","Zhong Shan Jinting Plastic & Hardware Products Co., Ltd.",Tier 1 Supplier,"[22.517585, 113.39277]"
+Kmart Australia,"No 88 Jiugui Rd, Jiulishan Industry Area, Yongkang, Zhejiang","Zhejiang Yongkang Mry Industry & Trade Co.,Ltd",Tier 1 Supplier,"[28.9231404, 119.9542327]"
+Target Australia,"151 Moo1, Mittapap Road, Banphai,Khonkaen, Thailand",Alsico Asia Pacific Co Ltd,Tier 1 Supplier,"[16.0591066, 102.7292282]"
+Target Australia,"Lot CN 07Tan Lien Industrial Park, Vinh Bao District,Hai Phong, Vietnam",Westfield Vietnam Company Limited,Tier 1 Supplier,
+Target Australia,"353 ANH DUNG KIEN THUYDUONG KINH DISTRICT, Vietnam",Yen Of London,Tier 1 Supplier,"[20.8001248, 106.702825]"
+Target Australia,"Road No.02, Hoa Cam Industrial Zone, Cam Le District, Danang City,Danang, Vietnam",Associated Manufacturing Vietnam Company Limited,Tier 1 Supplier,"[16.0153669, 108.1962362]"
+Target Australia,"Sf.No.181, Kollupalayam, Arasur, Coimbatore, Tamil Nadu",Quantum Knits,Tier 1 Supplier,"[10.6405006, 77.0611235]"
+Target Australia,"level 3-4, B/L A, No.3-1,Second Road of Long Tang, TanZhou Town,Zhongshan, China","Zhong Shan Bo Zhen Daily Chemical Co., Ltd",Tier 1 Supplier,
+Target Australia,"Plot No.4 Sec. 25Huda,Panipat, India",Pan Overseas,Tier 1 Supplier,"[29.3760929, 76.98385789999999]"
+Target Australia,"8, DLF Industrial Are Phase - I, Faridabad (HaryanNew Delhi - 110 020, India",Panorama Exports Pvt. Ltd,Tier 1 Supplier,"[28.4586615, 77.3109035]"
+Target Australia,"Jiyang Industrial Zone,Zhuji, China","Zhejiang Likai Footwear Co., Ltd",Tier 1 Supplier,"[29.7206022, 120.2417887]"
+Target Australia,"No.975, Dapu Road,Baiguan Block,Shangyu, China","Zhejiang Suncon Electric Appliance Co., Ltd.",Tier 1 Supplier,"[30.03312, 120.868122]"
+Target Australia,"West 3rd Road, Chucheng Industrial AreaHekou Street, Yuncheng District,Yunfu, China",Yunfu Flir Garment Limited,Tier 1 Supplier,"[22.946603, 112.144119]"
+Target Australia,"86# Changfu Rd, Yibei Industrial Park,Suxi Town,Yiwu, China","Zhejiang Bonny Share Co., Ltd",Tier 1 Supplier,"[29.402821, 120.13732]"
+Target Australia,"No.30, 32, Donggang Third Road,Kecheng Area,Quzhou, China",Zhejiang Kingvac Housewares Technology Co Ltd,Tier 1 Supplier,"[28.936767, 118.962873]"
+Target Australia,"Taiping VillageGongdao Town, Hanjiang District,Yangzhou, China",Yangzhou Hanjiang Tongzhou Crafts Production Co Ltd,Tier 1 Supplier,"[32.436313, 119.311428]"
+Target Australia,"Zhangbao East Road, Oubei Town,Yongjia County,Yongjia, China",Yongjia Compaq Shoes Co Ltd,Tier 1 Supplier,
+Target Australia,"(CNW) Group 3, Gougang Village,Wuyou Street, Chengnan New District,Yancheng, China",Yancheng Yueren Clothing Co Ltd,Tier 1 Supplier,"[33.1923267, 120.2053828]"
+Target Australia,"Huoda 4th Road, No. 2,Wenzhishan, Dongyingcun Linchang, Bei Guan Town, Yangdong District,Yangjiang, China",Yangjiang Hongtai Plastic & Metal Products Co Ltd,Tier 1 Supplier,"[21.915142, 112.058063]"
+Target Australia,"Fangxiang Industrial Park Fangxiang Town, Hanjiang District, Yangzhou, Jiangsu, 225117, China",Yangzhou Dongsheng Handicraft Product Co.,Tier 1 Supplier,"[32.4994249, 119.3940774]"
+Target Australia,"No. 96 YuanXin Road, TaoYuan Town,WuJiang District,Suzhou, China","Wujiang Champion Alpha Garments Co.,Ltd.",Tier 1 Supplier,"[30.80953599999999, 120.489407]"
+Target Australia,"Xinyang Economic ZoneYanwan Pioneer Park,Yancheng, China",Yancheng Meinengda Clothing Co Ltd,Tier 1 Supplier,
+Stockmann Oyj Abp,"Rua do Outeiro, 395, Santo Tirso, Sao Salvador Do Campo, 4795-542, Portugal","Somani, Sociedade Textil SA",Tier 1 Supplier,"[41.3605959, -8.3540002]"
+Stockmann Oyj Abp,"No. 6 Cuiheng Avenue Cuiheng Industrial District Nanlang Town, Zhongshan, Guangdong, China","Zhongshan Nanlang Zefeng Knitwear Co., Ltd.",Tier 1 Supplier,"[22.453544, 113.5388535]"
+Stockmann Oyj Abp,Jinxi Development Zone Tangxi Town Jinhua Zhejiang China,"Stage Leather Apparel Co.,Ltd",Tier 1 Supplier,"[29.107857, 119.602961]"
+Stockmann Oyj Abp,"No.8 Penghu Rd,Dong Nan Industrial Area 215000 Changshu Jiangsu China","Changshu Kailan Garment Co.,Ltd",Tier 1 Supplier,"[31.616741, 120.833793]"
+Stockmann Oyj Abp,"No.168, Zhou Jiabang Village, Xiao Kun Shan Songjiang District Shanghai Shanghai China",Shanghai Leather Glove Fashion,Tier 1 Supplier,"[31.03782, 121.134937]"
+Stockmann Oyj Abp,"No.58,Xinxing Rd,Gaoqiao Industrial Zone,Yuyue Town Deqing Zhejiang China","Zhejiang Luxury Fengrun Fashion Acc Co.,Ltd",Tier 1 Supplier,
+Stockmann Oyj Abp,"No. 5 Shuanglian Road, Economic Development Park Haining Jiaxing Zhejiang China",HAINING WEIERSI SOCKS FTY,Tier 1 Supplier,"[30.531344, 120.659378]"
+Stockmann Oyj Abp,"Industrial Park, Xinshi Town Deqing County Huzhou Zhejiang China",Huzhou Kaier,Tier 1 Supplier,"[30.616035, 120.277847]"
+Stockmann Oyj Abp,"No.58, Xinhai Road, Development Area,Xuyi, China",Finix Fashion (Xuyi) Co Ltd,Tier 1 Supplier,"[33.01197, 118.54436]"
+Stockmann Oyj Abp,"Jian'An Road No.88, Shuitou Town, Pingyang Wenzhou City, Zhejiang Province","Wenzhou Haojie Co.,Ltd",Tier 1 Supplier,"[27.6369711, 120.3349277]"
+Stockmann Oyj Abp,"No.289 Jinmao Road,Suzhou Industrial Park,Suzhou, China","Suzhou Industrial Park Jin Yue Clothing Co., Ltd.",Tier 1 Supplier,"[31.477873, 120.9691035]"
+Stockmann Oyj Abp,"Road 21, Kampong Pring Village, Sektbo Commune, Saarng District, Kandal Province, 12000, Phnom Penh",Meridian Industrial Garment (Cambodia) Ltd,Tier 1 Supplier,
+Stockmann Oyj Abp,Organize Sanayi 1. BÃ¶lge Servergazi Cad. No:12 20065 Denizli Turkey,Ekpen Tekstil,Tier 1 Supplier,"[37.806514, 29.2456761]"
+Stockmann Oyj Abp,"Huzur Mh. Ahmet Bayman Cd. No.18 Oto Sanayi Sisli, Istanbul, Marmara, Turkey",Finteks Tekstil ve Hali Sanayi Ltd. Sti.,Tier 1 Supplier,"[41.0977317, 29.0063698]"
+Stockmann Oyj Abp,"Sitio da Cruzinha, Vales Do Rio, 6200-811, Portugal",Confeccoes Lanca,Tier 1 Supplier,"[17.1695225, -25.165942]"
+Stockmann Oyj Abp,"Plot# B-5 BSCIC Industrial Estate, Tongi Gazipur 1710 Gazipur Bangladesh",Stitch Right Limited,Tier 1 Supplier,
+Stockmann Oyj Abp,No.85 No.1 Jianshe Road Economy & Technology Development Zone Xiaoshan Hangzhou Zhejiang China,HANGZHOU GOLDEN PROSPECT GARMENTS CO.LTD.,Tier 1 Supplier,"[30.202679, 120.286367]"
+Stockmann Oyj Abp,"NO 638 THE NORTH OF XIANGYU RD, HUAIAN CITY, JIANGSU, CHINA",SHANGTEX (HUAI AN) GMT CO. LTD,Tier 1 Supplier,"[33.6334559, 119.045893]"
+Stockmann Oyj Abp,"Industrial Zone, Meifeng Village, Dongshi Town, Jinjiang, Fujian, China","Kuntak (Fujian) Umbrella Industrial Co., Ltd",Tier 1 Supplier,"[24.660711, 118.460176]"
+Stockmann Oyj Abp,"Xinshi Industrial Garden, Deqing, 313201, Zhejiang",Huzhou Kaier Adornment Co. Ltd.,Tier 1 Supplier,"[30.5874889, 120.2684245]"
+Lindex,"Lot R (R1) Quang Chau Industrial park,Viet Yen District Bac Giang Province, Bac Giang Province, Vietnam","Crystal Martin (Vietnam) Co., Ltd",Tier 1 Supplier,"[21.2088664, 106.1051705]"
+Lindex,"South panishailBKSP Zirani Bazar, Bangladesh",Yasin Knittex Ind Ltd,Tier 1 Supplier,
+Lindex,"Cobancesme Mah, Sanayi Cad Acar Sanayi Sitesi No. 30 Yenibosna, NA, NA, Istanbul, Turkey",Mespa Tekstil Tic San AS,Tier 1 Supplier,"[41.007769, 28.822324]"
+Lindex,Dumlupinar mah. Gozdag cad. Leylak sok. No:5 Pendik Ä°stanbul Turkey,TAHOE (Usta),Tier 1 Supplier,
+Lindex,Ahmet Bayman cad. No:18 Oto Sanayi Sitesi Levent 34418 Istanbul Turkey,Finteks Istanbul Fty,Tier 1 Supplier,"[41.098251, 29.004824]"
+Lindex,MalkoÃ§oÄlu Mah. Eski Edirne AsfaltÄ± GÃ¶kler Ä°Å Merkezi No:883 Kat:4 Sultangazi Ä°stanbul Turkey,Korteks Tekstil,Tier 1 Supplier,
+Lindex,"Ä°kitelli Org. San. BÃ¶lg. Turgut Ãzal Cd. No.109 Ä°kitelli, Istanbul, Marmara, Turkey",Akademi Tekstil San. Tic. Ltd. Åti.,Tier 1 Supplier,
+Lindex,S.Cesme mah. Ataturk cad. Koclar sok. No:45 K.Cekmece Istanbul Turkey,Ateks Tekstil,Tier 1 Supplier,
+Lindex,"Organize Sanayi BolgesiAtaturk Cad No: 10 - 12, Turkey",Bony Tekstil Isletmeleri San. Ve Tic. A.s.,Tier 1 Supplier,"[38.491985, 27.038161]"
+Lindex,Kandy Industrial Park Pallekele Central Province Sri Lanka,Eskimo Fashion Knitwear (Pvt) Ltd Pallekele,Tier 1 Supplier,
+Lindex,"103-226 Ssangmun-3dong, Dobong-Gu 103-226 Seoul South Korea",Korea Industries,Tier 1 Supplier,"[37.645555, 127.0325285]"
+Lindex,"44/16 Baseline Road, Kadirana 11500 Negombo Wester Province Sri Lanka",Eskimo Fashion Knitwear Lanka Ltd Kadirana,Tier 1 Supplier,
+Lindex,"69-3, Cheongcheon-dong Bupyung-gu 403-855 Incheon-si South Korea",Gui Sung,Tier 1 Supplier,"[37.5183555, 126.6908323]"
+Lindex,"66,Hoguk-ro 929beon-gil Pocheon-si,Gyeonggi-do 487020 Pocheon-si Gyeonggi-do South Korea",Hyun Jae Textile,Tier 1 Supplier,
+Lindex,"P-3, Block 5, Federal B. Area, 75950 Karachi Pakistan",Soorty Enterprises Unit 2,Tier 1 Supplier,"[24.9338132, 67.05763879999999]"
+Lindex,337-9 Shinsa-Dong Eunpyung-Ku Seoul South Korea,"D.S. Textile Co.,Ltd",Tier 1 Supplier,
+Lindex,"Plot 24 - 26, Sec 23, Korangi Industrial Area, 74900 Karachi Pakistan",Soorty Enterprises Unit 1,Tier 1 Supplier,"[24.8373725, 67.1166204]"
+Lindex,"VIA GRECIA 20, CASTEL GOFFREDO (MN), ITALY",CALZIFICIO B.M. S.R.L.,Tier 1 Supplier,
+Lindex,"No. 10 Bardella Street, Castel Goffredo, Mantova, 46042, Italy",Calzaturificio Nuovo Giodi,Tier 1 Supplier,"[45.0564468, 10.9326926]"
+Lindex,"Plot - 22, Sector 16 , Korangi Industrial Area, 79400, Karachi",Kings Apparel Industries (Pvt) Ltd - Unit 1,Tier 1 Supplier,
+Nike Inc.,"Building 1 2 4 & 5 No. 2 Shi Ji Yi Road Huo Ju Development Area, Zhongshan, Guangdong, China","Zhongshan Zhijie Footwear Technical Service Co., Ltd.",Tier 1 Supplier,
+Nike Inc.,"ZHANAGTAI RD, GUOKENG TOWN LONGWEN DT, ZHANGZHOU CITY, FUJIAN, CHINA","ZHANGZHOU QIMEI ENTERPRISE CO., LTD",Tier 1 Supplier,
+Nike Inc.,"No 16, Changxing Road, Yangshe Town, 215600, Zhangjiagang, Jiangsu","Zhangjiagang China Resources Accessories Co., Ltd",Tier 1 Supplier,"[31.898621, 120.53961]"
+Nike Inc.,"HUAFENG INDUSTRY GARDEN, XINNING, GUANGDONG, CHINA","XINCHANG SHOES CO.,LTD",Tier 1 Supplier,
+Nike Inc.,"2ST TOWN, WENTONG INDUSTRY SECTION, DONGGUAN, GUANGDONG, CHINA","WILSON INT'L IND CO., LTD",Tier 1 Supplier,"[22.8259803, 113.6766803]"
+Nike Inc.,"Xijiang Industrial Zone, Guigang City, 537100, China","Whampoa Garment Mfg (Guigang) Co.,",Tier 1 Supplier,"[23.414435, 110.308121]"
+Nike Inc.,"#1 HUNG DAO VUONG, WARD 1, VINH LONG TOWN, VINH LONG, VINH LONG, VIETNAM",VINH TIEN GARMENT FACTORY,Tier 1 Supplier,
+Nike Inc.,"Kengkou Industrial Zone, Liaobu Town, Dongguan, Guangdong, China",Wellpower (Dongguan) Sporting Goods Co. Ltd,Tier 1 Supplier,"[23.074823, 113.855547]"
+Nike Inc.,"HOA PHU INDUSTRIAL ZONE, VINH LONG PROVINCE, VIETNAM, LONG HO, VINH LONG, VIETNAM","VINH LONG FOOTWEAR CO., LTD.",Tier 1 Supplier,
+Nike Inc.,"1657/3E NATIONAL ROAD 1A, AN PHU DONG WARD, DISTRICT 12, HO CHI MINH, HO CHI MINH CITY, VIETNAM","VINH HUNG - JOINT VENTURE CO., LTD (TMI VIETNAM)",Tier 1 Supplier,
+Nike Inc.,"4 FAIRWAYS AVENUE, FAIRWAYS PARK, DURBAN, KWAZULU NATAL, SOUTH AFRICA",VIMAL CLOTHING ENTERPRISE CC,Tier 1 Supplier,
+Nike Inc.,"LIBRAMIENTO A PALIZADA S/N VILLA VICTORIA, ESTADO DE MEXICO, CP, MEXICO",VILLA VICTORIA,Tier 1 Supplier,
+Nike Inc.,"BAU XEO INDUSTRIAL PARK, TRANG BOM, DONG NAI, VIETNAM",VIETNAM POU SUNG CO. LTD.,Tier 1 Supplier,
+Nike Inc.,"58 THOAI NGOC HAU STREET, WARD HOA THANH, TAN PHU DISTRICT, HO CHI MINH, THANH HOA, VIETNAM",VIET THINH GARMENT JOINT STOCK COMPANY,Tier 1 Supplier,
+Nike Inc.,"425B NGUYEN DINH CHIEU ST., W.8, BEN TRE, BEN TRE, VIETNAM","VIET HONG GARMENT EXPORT CO., LTD.",Tier 1 Supplier,"[10.236175, 106.3779715]"
+Nike Inc.,"653 MOO 4 SOI E 6 PATTANA RD, MUANG, SAMUTPRAKARN, THAILAND","VEGA BALL MANUFACTURING CO.,LTD.",Tier 1 Supplier,"[13.5514714, 100.6707526]"
+Nike Inc.,"91 MOO 1 PETCHAKASERN RD. SOI WATTHEINTAD, T.BANMAI, NAKORNPRATHOM, , THAILAND","UNIVERSAL SPORTING GOODS (THAILAND) CO., LTD.",Tier 1 Supplier,
+Nike Inc.,"846, JALAN RAYA, SUNGAI  BAKAP, PENANG, MALAYSIA",UNITED SWEETHEARTS GARMENT SDN BHD,Tier 1 Supplier,
+Nike Inc.,"665-1 KAMIMANIDA,, ANNAKA, GUNMA-KEN, JAPAN",U-CORPORATION,Tier 1 Supplier,"[36.2993914, 138.8478366]"
+Nike Inc.,"7929 SW BURNS WAY, WILSONVILLE, OREGON, USA","U.S. EMBROIDERY, LLC",Tier 1 Supplier,"[45.3325721, -122.7597374]"
+Uniqlo Co.,"16/4 Street, Phan Rang Ward, Thap Cham District, Ninh Thuan Province, Vietnam","TIEN THUAN GARMENT CO., LTD.",Tier 1 Supplier,
+Uniqlo Co.,"Mycan Hamlet, Nhi My Commune, Cai Lay District, Tien Giang Province, Vietnam",Viet Tan Garment Joint Stock Company,Tier 1 Supplier,"[10.4109191, 106.140451]"
+Uniqlo Co.,"40/32 National Road No.13, Hiep Binh Phuoc Ward, Thu Duc Dist., HCMC, Vietnam",SAIGON3 GARMENT JOINT STOCK COMPANY,Tier 1 Supplier,
+Uniqlo Co.,"11/2A, Quarter 5, Hiep Thanh Ward, District 12, Ho Chi Minh City, Vietnam","Shin Dong Garment Co., Ltd.",Tier 1 Supplier,
+Uniqlo Co.,"Ruc Lien Hamlet, Thuy Son Commune, Thuy Nguyen District, Hai Phong City",NAM THUAN CO. LTD.,Tier 1 Supplier,"[20.9178787, 106.6659746]"
+Uniqlo Co.,"Nam Sach IZ, Hai Duong Province, Vietnam",Regent Garment Factory LTD,Tier 1 Supplier,
+Uniqlo Co.,"Lot A1, Road No. 787, Thanh Thanh Cong Industrial Park, An Hoa Ward, Trang Bang District, Tay Ninh Province, Vietnam",First Team (Vietnam) Garment Ltd.,Tier 1 Supplier,
+Uniqlo Co.,"TRANOC INDUSTRIAL ZONE, BINH THUY DISTRICT, CANTHO CITY, VIETNAM.",MEKO GARMENT JOINT STOCK COMPANY,Tier 1 Supplier,"[10.1006312, 105.7152609]"
+Uniqlo Co.,"Workshop E6, E7, E8, E9 (Plot E), CN7, Trang Due Industrial Park, An Duong district, Hai Phong, Vietnam",Crystal Sweater Vietnam Limited,Tier 1 Supplier,
+Uniqlo Co.,232-2 Makinouchi Sakurai-City Nara Japan,"SANYO MERIYASU CO.,LTD",Tier 1 Supplier,
+Uniqlo Co.,"126 MOO 5, SAHAPAT INDUSTRIAL, KABINBURI, PRACHINBURI, THAILAND","OKAMOTO TEXTILE (THAILAND) CO.,LTD.",Tier 1 Supplier,"[13.9050107, 101.7979613]"
+Uniqlo Co.,"Doi Ngo Town, Luc Nam district, Bac Giang province, Vietnam",Bac Giang Garment Joint Stock Company,Tier 1 Supplier,
+Uniqlo Co.,"Jl. Raya Solo-Sragen KM 22, Dk. Dawangan, Ds. Purwosuman, Kec. Sidoharjo, Kab. Sragen Jawa Tengah 57281 Indonesia.",PT PAN BROTHERS TBK (SRAGEN),Tier 1 Supplier,"[-7.456562, 110.9593044]"
+Uniqlo Co.,"Jl. Soekarno Hatta No. 55, Km. 30. Desa Randu Gunting, Kec. Bergas, Kab. Semarang Jawa Tengah 50552 Indonesia",PT. BERKAH INDO GARMENT,Tier 1 Supplier,
+Uniqlo Co.,"JL. RAYA RANCAEKEK-MAJALAYA NO.389 DS. SOLOKANJERUK, KEC. SOLOKANJERUK, KAB. BANDUNG-JAWA BARAT, 40382 INDONESIA",PT Jiale Indonesia Garment,Tier 1 Supplier,"[-7.0051866, 107.7487113]"
+Uniqlo Co.,"JL. PECANGAAN-BATE NO. 288 RT.001 RW.005, KEL. GEMULUNG, KEC. PECANGAAN, JEPARA, 59462 JAWA TENGAH INDONESIA",PT Jiale Indonesia Textile,Tier 1 Supplier,
+Uniqlo Co.,"West of Xianshi Road, Bei Wai Huan, Zhucheng City, Shandong, China","Zhucheng Yuli Garments Co.,Ltd",Tier 1 Supplier,"[36.0660289, 119.4441177]"
+Uniqlo Co.,"No.577, Chenqiao Road, Zhoucun District, Zibo City, Shandong Province, China","ZIBO LANYAN GARMENT CO.,LTD.",Tier 1 Supplier,
+Uniqlo Co.,"No.18 Dujiang North Road, Wangjiang Economic Development Zone, Anqing, Anhui","Shenzhou Knitting Anhui Co., Ltd.",Tier 1 Supplier,
+Uniqlo Co.,"NO.2,Xiangyang Road, Funing Aoyang Industrial Park, Yancheng, Jiangsu CHINA","YANCHENG YONGTAI GARMENT CO.,LTD.",Tier 1 Supplier,
