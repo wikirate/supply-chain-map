@@ -2,7 +2,16 @@
     <div class="row mt-4 pt-4">
         <div class="col-12" id="map-company-container">
             <app-company ></app-company>
-            <agm-map></agm-map>
+            <agm-map [fitBounds]="true">
+
+                <agm-marker
+                        *ngFor="let m of markers"
+                        [latitude]="m.lat"
+                        [longitude]="m.lng"
+                        [label]="m.label"
+                        [agmFitBounds]="true">
+                </agm-marker>
+            </agm-map>
         </div>
     </div>
 </div>
