@@ -1,10 +1,15 @@
 <div id="company-info-widget">
-  <h3 class="text-center">List of Companies</h3>
-  <ul class="list-unstyled pl-2">
-    <li>Company One</li>
-    <li>Company Two</li>
-    <li>Company Three</li>
-    <li>Company Four</li>
-    <li>Company Five</li>
+  <ul *ngIf="companyData && currentView === VIEWS.ALL_COMPANIES" class="list-unstyled pl-2" >
+    <h3 class="text-center">List of Companies</h3>
+    <li (click)="showCompanyData(company)" *ngFor="let company of companyData">{{company.company}}</li>
+  </ul>
+  <ul *ngIf="companyData && currentView === VIEWS.COMPANY_OVERVIEW && currentCompanyData" class="list-unstyled pl-2">
+    <h3 class="text-center">{{currentCompanyData.company}}</h3>
+      <li>ID: {{currentCompanyData.id}}</li>
+      <li>Year: {{currentCompanyData.year}}</li>
+      <li>Value: {{currentCompanyData.value}}</li>
+      <li>Suppliers: COMING SOON</li>
+      <li>Investors: COMING SOON</li>
+      <button (click)="goToView(VIEWS.ALL_COMPANIES)" class="btn col-12 mt-2"><- back to overview</button>
   </ul>
 </div>

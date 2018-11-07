@@ -6,7 +6,6 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./overview.component.less']
 })
 export class OverviewComponent implements OnInit {
-
   markers: LocationMarker[] = [];
 
   constructor() {
