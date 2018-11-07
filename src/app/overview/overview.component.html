@@ -1,17 +1,37 @@
 <div class="container mt-4 pt-4 ">
-    <div class="row mt-4 pt-4">
-        <div class="col-12" id="map-company-container">
-            <app-company ></app-company>
-            <agm-map [fitBounds]="true">
+  <div class="row mt-4 pt-4">
+    <div class="col-12" id="map-company-container">
+      <app-company></app-company>
+      <agm-map [fitBounds]="true">
 
-                <agm-marker
-                        *ngFor="let m of markers"
-                        [latitude]="m.lat"
-                        [longitude]="m.lng"
-                        [label]="m.label"
-                        [agmFitBounds]="true">
-                </agm-marker>
-            </agm-map>
-        </div>
+        <agm-marker
+          *ngFor="let m of companies"
+          [latitude]="m.lat"
+          [longitude]="m.lng"
+          iconUrl="/assets/icons/company.png"
+          [agmFitBounds]="true">
+          <agm-info-window>
+            <strong>{{m.label}}</strong>
+          </agm-info-window>
+
+          <agm-marker
+            *ngFor="let s of m.suppliers"
+            [latitude]="s.lat"
+            [longitude]="s.lng"
+            iconUrl="/assets/icons/supplier.png"
+            [agmFitBounds]="true">
+            <agm-info-window>
+              <strong>{{s.label}}</strong>
+            </agm-info-window>
+            <agm-polyline>
+              <agm-polyline-point [latitude]="s.lat" [longitude]="s.lng"></agm-polyline-point>
+              <agm-polyline-point [latitude]="m.lat" [longitude]="m.lng"></agm-polyline-point>
+            </agm-polyline>
+          </agm-marker>
+        </agm-marker>
+      </agm-map>
+
+
     </div>
+  </div>
 </div>
